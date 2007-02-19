@@ -12,10 +12,10 @@
 <itunes:summary>担当教員が生の声で授業内容とその魅力を解説する、授業紹介ビデオです。</itunes:summary>
 <itunes:owner> 
 <itunes:name>1分間授業紹介　名大の授業　名古屋大学OCW</itunes:name> 
-<itunes:email></itunes:email> 
+<itunes:email>nuocw-inquiry@media.nagoya-u.ac.jp</itunes:email> 
 </itunes:owner> 
 <itunes:category text="Education"> 
-<itunes:category text="Higher Ed"/> 
+<itunes:category text="Higher Education"/> 
 </itunes:category> 
 
 
@@ -27,7 +27,7 @@
 <itunes:explicit>no</itunes:explicit> 
 <enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050803azegami01_podcast.mp4" length="11683262" type="video/mp4" />
 <guid>http://ocw.nagoya-u.jp/podcast/ocw20050803azegami01_podcast.mp4</guid> 
-<pubDate>Tue, 03 Aug 2005 09:30:00 +0900</pubDate>
+<pubDate>Wed, 03 Aug 2005 09:30:00 +0900</pubDate>
 <itunes:duration>01:42</itunes:duration> 
 <itunes:keywords>適応　システム　特論　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords> 
 </item>
@@ -41,7 +41,7 @@
 <itunes:explicit>no</itunes:explicit> 
 <enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050803azegami02_podcast.mp4" length="3979164" type="video/mp4" />
 <guid>http://ocw.nagoya-u.jp/podcast/ocw20050803azegami02_podcast.mp4</guid> 
-<pubDate>Tue, 03 Aug 2005 09:30:00 +0900</pubDate>
+<pubDate>Wed, 03 Aug 2005 09:30:00 +0900</pubDate>
 <itunes:duration>00:34</itunes:duration> 
 <itunes:keywords>複雑系 科学 演習　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords> 
 </item>
@@ -154,7 +154,7 @@
 <enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050824katayama_podcast.mp4" length="5628457" type="video/mp4" />
 <guid>http://ocw.nagoya-u.jp/podcast/ocw20050824katayama_podcast.mp4</guid> 
 <pubDate>Wed, 24 Aug 2005 09:30:00 +0900</pubDate>
-<itunes:duration>00：49</itunes:duration> 
+<itunes:duration>00:49</itunes:duration> 
 <itunes:keywords>情報通信工学 情報 通信 工学 名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords> 
 </item>
 
@@ -168,7 +168,7 @@
 <enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050825iwasaki_podcast.mp4" length="6260239" type="video/mp4" />
 <guid>http://ocw.nagoya-u.jp/podcast/ocw20050825iwasaki_podcast.mp4</guid> 
 <pubDate>Thu, 25 Aug 2005 09:30:00 +0900</pubDate>
-<itunes:duration>00：54</itunes:duration> 
+<itunes:duration>00:54</itunes:duration> 
 <itunes:keywords>生命農学基礎講義 生命 農学 基礎  名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords> 
 </item>
 
@@ -587,7 +587,7 @@
 <itunes:explicit>no</itunes:explicit> 
 <enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20061124iida_podcast.mp4" length="7037437" type="video/mp4" />
 <guid>http://ocw.nagoya-u.jp/podcast/ocw20061124iida_podcast.mp4</guid> 
-<pubDate>Thu, 24 Nov 2006 09:30:00 +0900</pubDate>
+<pubDate>Fri, 24 Nov 2006 09:30:00 +0900</pubDate>
 <itunes:duration>01:01</itunes:duration> 
 <itunes:keywords>朝鮮 韓国語 　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords> 
 </item>
