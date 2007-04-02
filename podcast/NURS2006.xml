@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="UTF-8"?> 
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"> 
+ 
+<channel> 
+
+<title>名古屋大学リレーセミナー 自然・社会環境と衣・食・住</title> 
+<link>http://ocw.nagoya-u.jp/</link> 
+<language>ja</language> 
+<copyright>&#x2117; &amp; &#xA9; 2006 Nagoya Univ 東海ラジオ放送</copyright> 
+<itunes:subtitle></itunes:subtitle> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:summary>私たちをとりまく自然や社会環境は今、急速に変化しています。そしてその変化は、衣・食・住という私たちに身近なところで実感されることが多くなってきました。自然や社会環境の変化は、私たちに豊かさや利便性をあたえてくれる一方で、時に私たちが予期しなかった結果や問題を引き起こすことがあります。また、新しい人工物環境やネットワークの拡大は、自然と人、そして人と人の関係性に変容をもたらしています。
+私たちは新たな自然や社会環境のなかで、変化に適応する対処法を模索しますが、おそらくさらに重要なことは、関係性の変化にともなう新たな倫理の構築ではないでしょうか。つまり、経験の蓄積がない諸問題に対して、私たちは自分自身の態度や行動が、将来的に周囲の自然や社会環境に与える影響を未来予測しながら、生活することが求められているのです。
+本講座では、私たちをとりまく自然や社会環境について、衣・食・住という身近な観点から、もう一度、見つめなおします。そして、私たちの身のまわりでいま何が起こっているのか、変化する環境のなかで私たちに何が求められているのか、いま必要とされる新しい倫理とは何か。こうした問題について共に考えていきたいと思います。</itunes:summary>
+<itunes:owner> 
+<itunes:name>名古屋大学リレーセミナー　自然・社会環境と衣・食・住</itunes:name> 
+<itunes:email></itunes:email> 
+</itunes:owner> 
+<itunes:category text="Education"> 
+<itunes:category text="Higher Ed"/> 
+</itunes:category> 
+
+<item> 
+<title>第01回：水資源の問題</title> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>地球水循環研究センター 教授 安成哲三</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/NagoyaUniv_RelaySeminar001.mp3" length="28117251" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/NagoyaUniv_RelaySeminar001.mp3</guid> 
+<pubDate>Sun, 02 Jul 2006 06:30:00 +0900</pubDate>
+<itunes:duration>29:21</itunes:duration> 
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+
+<item> 
+<title>第02回：ユビキタス社会</title> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>情報文化学部 教授 安田孝美</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/NagoyaUniv_RelaySeminar002.mp3" length="29097193" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/NagoyaUniv_RelaySeminar002.mp3</guid> 
+<pubDate>Sun, 09 Jul 2006 06:30:00 +0900</pubDate>
+<itunes:duration>30:23</itunes:duration> 
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+
+<item> 
+<title>第03回：おいしい卵がたくさんできる秘密</title> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>生命農学研究科 教授 島田清司</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/NagoyaUniv_RelaySeminar003.mp3" length="28163548" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/NagoyaUniv_RelaySeminar003.mp3</guid> 
+<pubDate>Sun, 16 Jul 2006 06:30:00 +0900</pubDate>
+<itunes:duration>29:24</itunes:duration> 
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+
+<item> 
+<title>第04回：住宅・構造物の安全</title> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>環境学研究科 助教授 森保宏</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/NagoyaUniv_RelaySeminar004.mp3" length="28058450" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/NagoyaUniv_RelaySeminar004.mp3</guid> 
+<pubDate>Sun, 23 Jul 2006 06:30:00 +0900</pubDate>
+<itunes:duration>29:18</itunes:duration> 
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+
+<item> 
+<title>第05回：インターネット社会に於けるセキュリティ</title> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>情報連携基盤センター 助教授　竹内義則</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/NagoyaUniv_RelaySeminar005.mp3" length="27998016" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/NagoyaUniv_RelaySeminar005.mp3</guid> 
+<pubDate>Sun, 30 Jul 2006 06:30:00 +0900</pubDate>
+<itunes:duration>29:14</itunes:duration> 
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+
+<item> 
+<title>第06回：土壌地下水汚染をめぐって</title> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>エコトピア科学研究所 教授　片山新太</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/NagoyaUniv_RelaySeminar006.mp3" length="28078898" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/NagoyaUniv_RelaySeminar006.mp3</guid> 
+<pubDate>Sun, 06 Aug 2006 06:30:00 +0900</pubDate>
+<itunes:duration>29:19</itunes:duration> 
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+
+<item> 
+<title>第07回：政府の役割と市場の役割</title> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>経済学研究科 教授　竹内信仁</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/NagoyaUniv_RelaySeminar007.mp3" length="27967549" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/NagoyaUniv_RelaySeminar007.mp3</guid> 
+<pubDate>Sun, 13 Aug 2006 06:30:00 +0900</pubDate>
+<itunes:duration>29:12</itunes:duration> 
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+
+<item> 
+<title>第08回：エネルギーと環境</title> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>エコトピア科学研究所　教授　北川邦行</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/NagoyaUniv_RelaySeminar008.mp3" length="28105162" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/NagoyaUniv_RelaySeminar008.mp3</guid> 
+<pubDate>Sun, 20 Aug 2006 06:30:00 +0900</pubDate>
+<itunes:duration>29:20</itunes:duration> 
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+
+<item> 
+<title>第09回：科学技術がもたらす健康問題を考える</title> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>医学系研究科 助教授 上島通浩</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/NagoyaUniv_RelaySeminar009.mp3" length="28061387" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/NagoyaUniv_RelaySeminar009.mp3</guid> 
+<pubDate>Sun, 27 Aug 2006 06:30:00 +0900</pubDate>
+<itunes:duration>29:18</itunes:duration> 
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+
+<item> 
+<title>第10回：スポーツとファッション</title> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>総合保健体育科学センター 講師 高橋義雄</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/NagoyaUniv_RelaySeminar010.mp3" length="29929128" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/NagoyaUniv_RelaySeminar010.mp3</guid> 
+<pubDate>Sun, 03 Sep 2006 06:30:00 +0900</pubDate>
+<itunes:duration>31:15</itunes:duration> 
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+
+</channel> 
+</rss>
