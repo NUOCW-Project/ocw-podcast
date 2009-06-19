@@ -336,26 +336,13 @@
 <item>
 <title>非線形制御特論</title>
 <itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>大学院工学研究科　助教授　橋本健治</itunes:subtitle>
+<itunes:subtitle>工学研究科　准教授　藤本健治</itunes:subtitle>
 <itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20060808hashimoto_podcast.mp4" length="5970677" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20060808hashimoto_podcast.mp4</guid>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20060808fujimoto.mp4" length="5968070" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20060808fujimoto.mp4</guid>
 <pubDate>Tue, 08 Aug 2006 09:30:00 +0900 </pubDate>
 <itunes:duration>0:00:52</itunes:duration>
 <itunes:keywords>非線形制御特論 非線形 制御　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
-</item>
-
-
-<item>
-<title>基礎セミナー</title>
-<itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>大学院工学研究科　助教授　小橋眞</itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20060808kobashi_podcast.mp4" length="7243775" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20060808kobashi_podcast.mp4</guid>
-<pubDate>Tue, 08 Aug 2006 09:30:00 +0900 </pubDate>
-<itunes:duration>0:01:03</itunes:duration>
-<itunes:keywords>名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
 </item>
 
 
@@ -577,19 +564,6 @@
 <pubDate>Mon, 23 Jul 2007 09:30:00 +0900 </pubDate>
 <itunes:duration>0:01:25</itunes:duration>
 <itunes:keywords>応用行動学 講義 産業 組織 心理学 　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
-</item>
-
-
-<item>
-<title>歩行ロボット</title>
-<itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>工学研究科　准教授　藤本健治</itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20060808fujimoto.mp4" length="5968070" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20060808fujimoto.mp4</guid>
-<pubDate>Wed, 08 Aug 2007 09:30:00 +0900 </pubDate>
-<itunes:duration>0:00:52</itunes:duration>
-<itunes:keywords>歩行 ロボット 講義 産業 組織 心理学 　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
 </item>
 
 
