@@ -1,15 +1,14 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 
 <channel>
-<ttl>60</ttl>
 <title>1分間授業紹介　名大の授業　名古屋大学OCW</title>
 <link>http://ocw.nagoya-u.jp/</link>
 <language>ja</language>
-<copyright>&#x2117; &amp; &#xA9; 2006 Nagoya Univ</copyright>
+<copyright>&#x2117; &amp; &#xA9; 2006- Nagoya University</copyright>
 <itunes:subtitle>担当教員が生の声で授業内容とその魅力を解説する、授業紹介ビデオです。</itunes:subtitle>
 <itunes:author>名古屋大学</itunes:author>
-<itunes:summary></itunes:summary>
+<itunes:summary>担当教員が生の声で授業内容とその魅力を解説する、授業紹介ビデオです。</itunes:summary>
 
 <itunes:owner>
 <itunes:name>名古屋大学OCW委員会</itunes:name>
