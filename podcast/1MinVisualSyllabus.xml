@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 
 <channel>
+<ttl>60</ttl>
 <title>1分間授業紹介　名大の授業　名古屋大学OCW</title>
 <link>http://ocw.nagoya-u.jp/</link>
 <language>ja</language>
@@ -18,6 +19,396 @@
 <itunes:category text="Education" > 
 <itunes:category text="Higher Education"/>
 </itunes:category>
+
+
+<item>
+<title>中国西南の民族と歴史</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>大学院文学研究科　准教授　林謙一郎</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050930hayashi_podcast.mp4" length="4855508" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20050930hayashi_podcast.mp4</guid>
+<pubDate>Fri, 30 Sep 2005 09:30:00 +0900 </pubDate>
+<itunes:duration>0:00:42</itunes:duration>
+<itunes:keywords>中国　民族　歴史　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>基礎セミナーA（民法の世界で遊ぶ）</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>大学院法学研究科　教授　千葉恵美子</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050804chiba_podcast.mp4" length="9225988" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20050804chiba_podcast.mp4</guid>
+<pubDate>Thu, 04 Aug 2005 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:20</itunes:duration>
+<itunes:keywords>基礎セミナー 民法　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>数理解析・計算機数学 I</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>大学院多元数理科学研究科　准教授　内藤久資</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050804naitou_podcast.mp4" length="4418462" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20050804naitou_podcast.mp4</guid>
+<pubDate>Thu, 04 Aug 2005 09:30:00 +0900 </pubDate>
+<itunes:duration>0:00:38</itunes:duration>
+<itunes:keywords>数理解析 計算機数学　数学　解析 名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>ジェンダーとセクシュアリティ</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>大学院国際言語文化研究科　准教授　谷本千雅子</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050805tanimoto02_podcast.mp4" length="7453928" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20050805tanimoto02_podcast.mp4</guid>
+<pubDate>Fri, 05 Aug 2005 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:05</itunes:duration>
+<itunes:keywords>ジェンダー セクシュアリティ 名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>力学 I</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>大学院理学研究科　教授　大島隆義</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050809ohshima_podcast.mp4" length="11479860" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20050809ohshima_podcast.mp4</guid>
+<pubDate>Tue, 09 Aug 2005 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:40</itunes:duration>
+<itunes:keywords>力学 名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>基礎セミナーA (図書館情報リテラシー : 図書館と情報を使いこなす)</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>大学院情報科学研究科　教授　逸村裕</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050823itsumura_podcast.mp4" length="13474023" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20050823itsumura_podcast.mp4</guid>
+<pubDate>Tue, 23 Aug 2005 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:58</itunes:duration>
+<itunes:keywords>図書館情報リテラシー 図書館 情報 リテラシー 名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>英語(リーディング)4</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>大学院国際開発研究科　准教授　山下淳子</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050809yamashita02_podcast.mp4" length="14304209" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20050809yamashita02_podcast.mp4</guid>
+<pubDate>Tue, 09 Aug 2005 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:40</itunes:duration>
+<itunes:keywords>英語　リーディング 名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>言語教育工学</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>大学院国際開発研究科　教授　杉浦正利</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050803sugiura_podcast.mp4" length="3166849" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20050803sugiura_podcast.mp4</guid>
+<pubDate>Wed, 03 Aug 2005 09:30:00 +0900 </pubDate>
+<itunes:duration>0:00:27</itunes:duration>
+<itunes:keywords>言語教育工学 言語 教育工学 教育　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>離散数学及び演習</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>大学院工学研究科　講師　草刈圭一朗</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050908kusakari_podcast.mp4" length="6100488" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20050908kusakari_podcast.mp4</guid>
+<pubDate>Thu, 08 Sep 2005 09:30:00 +0900 </pubDate>
+<itunes:duration>0:00:53</itunes:duration>
+<itunes:keywords>離散数学及び演習　離散　数学　演習  名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>統計分析</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>大学院環境学研究科　教授　川崎誠一</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050901kawasaki_podcast.mp4" length="6743927" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20050901kawasaki_podcast.mp4</guid>
+<pubDate>Thu, 01 Sep 2005 09:30:00 +0900 </pubDate>
+<itunes:duration>0:00:59</itunes:duration>
+<itunes:keywords>統計分析 統計 分析  名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>経済理論 I </title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>大学院経済学研究科　講師　柳原光芳</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050825yangihara4_podcast.mp4" length="7917423" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20050825yangihara4_podcast.mp4</guid>
+<pubDate>Thu, 25 Aug 2005 09:30:00 +0900 </pubDate>
+<itunes:duration>0:02:04</itunes:duration>
+<itunes:keywords>経済理論 経済 理論  名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>民法II</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>大学院法学研究科　准教授　田高寛貴</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050901tadaka_podcast.mp4" length="8318709" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20050901tadaka_podcast.mp4</guid>
+<pubDate>Thu, 01 Sep 2005 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:13</itunes:duration>
+<itunes:keywords>民法  名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>法学</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>大学院法学研究科　准教授　岡本裕樹</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050901okamoto_podcast.mp4" length="7771769" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20050901okamoto_podcast.mp4</guid>
+<pubDate>Thu, 01 Sep 2005 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:08</itunes:duration>
+<itunes:keywords>文系基礎科目－法学 文系基礎科目 法学  名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>全学教養科目－未来の大学像をつくる</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>高等教育研究センター　准教授　近田政博</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050908chikada_podcast.mp4" length="8415824" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20050908chikada_podcast.mp4</guid>
+<pubDate>Thu, 08 Sep 2005 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:14</itunes:duration>
+<itunes:keywords>全学教養科目－未来の大学像をつくる 全学教養科目 未来 大学像 つくる  名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>管理会計</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>大学院経済学研究科　教授　木村彰吾</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050825kimura_podcast.mp4" length="11064864" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20050825kimura_podcast.mp4</guid>
+<pubDate>Thu, 25 Aug 2005 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:37</itunes:duration>
+<itunes:keywords>管理会計 管理 会計  名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>情報と法</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>大学院法学研究科　准教授　大屋雄裕</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050826ohya_podcast.mp4" length="6444349" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20050826ohya_podcast.mp4</guid>
+<pubDate>Fri, 26 Aug 2005 09:30:00 +0900 </pubDate>
+<itunes:duration>0:00:56</itunes:duration>
+<itunes:keywords>情報と法 情報 法  名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>資源植物環境学</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>大学院生命農学研究科　准教授　谷口光隆</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20051116taniguchi1_podcast.mp4" length="8875530" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20051116taniguchi1_podcast.mp4</guid>
+<pubDate>Wed, 16 Nov 2005 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:18</itunes:duration>
+<itunes:keywords>資源植物環境学　資源　植物　環境　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>情報通信工学第２</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>大学院工学研究科　教授　片山正昭</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050824katayama_podcast.mp4" length="5628457" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20050824katayama_podcast.mp4</guid>
+<pubDate>Wed, 24 Aug 2005 09:30:00 +0900 </pubDate>
+<itunes:duration>0:00:49</itunes:duration>
+<itunes:keywords>情報通信工学 情報 通信 工学 名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>生命農学基礎講義</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>大学院生命農学研究科　准教授　岩崎雄吾</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050825iwasaki_podcast.mp4" length="6260239" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20050825iwasaki_podcast.mp4</guid>
+<pubDate>Thu, 25 Aug 2005 09:30:00 +0900 </pubDate>
+<itunes:duration>0:00:54</itunes:duration>
+<itunes:keywords>生命農学基礎講義 生命 農学 基礎  名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>物質情報学２</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>大学院情報科学研究科　准教授　中村泰之</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20051007nakamura_podcast.mp4" length="7635118" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20051007nakamura_podcast.mp4</guid>
+<pubDate>Fri, 07 Oct 2005 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:17</itunes:duration>
+<itunes:keywords>物質情報学 物質 情報　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>英語(リーディング)2</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>大学院国際言語文化研究科　教授　外池俊幸</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20051221tonoike_podcast.mp4" length="6877456" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20051221tonoike_podcast.mp4</guid>
+<pubDate>Wed, 21 Dec 2005 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:00</itunes:duration>
+<itunes:keywords>英語 リーディング　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>宇宙物理学γ（宇宙論）</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>大学院理学研究科　准教授　松原隆彦</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20060811matsubara_podcast.mp4" length="5657497" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20060811matsubara_podcast.mp4</guid>
+<pubDate>Fri, 11 Aug 2006 09:30:00 +0900 </pubDate>
+<itunes:duration>0:00:49</itunes:duration>
+<itunes:keywords>宇宙物理学γ（宇宙論） 宇宙 物理学 宇宙論 物理 　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>朝鮮・韓国語</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>大学院国際言語文化研究科　教授　 飯田秀敏</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20061124iida_podcast.mp4" length="7037437" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20061124iida_podcast.mp4</guid>
+<pubDate>Fri, 24 Nov 2006 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:01</itunes:duration>
+<itunes:keywords>朝鮮 韓国語 　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>ドイツ語１／ドイツ語２</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>大学院国際開発研究科　教授　 成田克史</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20060825narita_podcast.mp4" length="21274675" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20060825narita_podcast.mp4</guid>
+<pubDate>Fri, 25 Aug 2006 09:30:00 +0900 </pubDate>
+<itunes:duration>0:03:07</itunes:duration>
+<itunes:keywords>ドイツ語 ドイツ 　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>ロシア語2</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>大学院国際開発研究科　准教授　 SAVELIEV IGOR</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20060821saveliev_podcast.mp4" length="6332480" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20060821saveliev_podcast.mp4</guid>
+<pubDate>Mon, 21 Aug 2006 09:30:00 +0900 </pubDate>
+<itunes:duration>0:00:55</itunes:duration>
+<itunes:keywords>ロシア語 ロシア 　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>科学・技術の哲学</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>大学院情報科学研究科　准教授　 伊勢田哲治</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20061023iseda_podcast.mp4" length="5855268" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20061023iseda_podcast.mp4</guid>
+<pubDate>Mon, 23 Oct 2006 09:30:00 +0900 </pubDate>
+<itunes:duration>0:00:51</itunes:duration>
+<itunes:keywords>科学・技術の哲学 科学 技術 哲学 　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>ポスト・ローマ期ヨーロッパの表象構造</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>大学院文学研究科　教授　 佐藤彰一</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20060913sato_podcast.mp4" length="27694741" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20060913sato_podcast.mp4</guid>
+<pubDate>Wed, 13 Sep 2006 09:30:00 +0900 </pubDate>
+<itunes:duration>0:04:04</itunes:duration>
+<itunes:keywords>ポスト・ローマ期ヨーロッパの表象構造 ポスト ローマ期 ヨーロッパ 表象構造 　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>文系基礎地理学</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>大学院環境学研究科　教授　溝口常俊</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20060809mizoguchi_podcast.mp4" length="6357618" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20060809mizoguchi_podcast.mp4</guid>
+<pubDate>Wed, 09 Aug 2006 09:30:00 +0900 </pubDate>
+<itunes:duration>0:00:55</itunes:duration>
+<itunes:keywords>文系基礎地理学 文系 地理学　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>名大の歴史をたどる</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>大学院文学研究科　教授　 羽賀祥二</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20061129haga_podcast.mp4" length="11117119" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20061129haga_podcast.mp4</guid>
+<pubDate>Wed, 29 Nov 2006 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:37</itunes:duration>
+<itunes:keywords>歴史 　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>数学展望１</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>大学院多元数理学研究科　准教授　吉田健一</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20060809yoshida_podcast.mp4" length="7855608" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20060809yoshida_podcast.mp4</guid>
+<pubDate>Wed, 09 Aug 2006 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:09</itunes:duration>
+<itunes:keywords>数学展望 数学 展望　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
 
 
 <item>
@@ -47,269 +438,9 @@
 
 
 <item>
-<title>言語教育工学</title>
-<itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>大学院国際開発研究科　教授　杉浦正利</itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050803sugiura_podcast.mp4" length="3166849" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20050803sugiura_podcast.mp4</guid>
-<pubDate>Wed, 03 Aug 2005 09:30:00 +0900 </pubDate>
-<itunes:duration>0:00:27</itunes:duration>
-<itunes:keywords>言語教育工学 言語 教育工学 教育　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
-</item>
-
-
-<item>
-<title>基礎セミナーA（民法の世界で遊ぶ）</title>
-<itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>大学院法学研究科　教授　千葉恵美子</itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050804chiba_podcast.mp4" length="9225988" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20050804chiba_podcast.mp4</guid>
-<pubDate>Thu, 04 Aug 2005 09:30:00 +0900 </pubDate>
-<itunes:duration>0:01:20</itunes:duration>
-<itunes:keywords>基礎セミナー 民法　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
-</item>
-
-
-<item>
-<title>数理解析・計算機数学 I</title>
-<itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>大学院多元数理科学研究科　助教授　内藤久資</itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050804naitou_podcast.mp4" length="4418462" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20050804naitou_podcast.mp4</guid>
-<pubDate>Thu, 04 Aug 2005 09:30:00 +0900 </pubDate>
-<itunes:duration>0:00:38</itunes:duration>
-<itunes:keywords>数理解析 計算機数学　数学　解析 名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
-</item>
-
-
-<item>
-<title>ジェンダーとセクシュアリティ</title>
-<itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>大学院国際言語文化研究科　助教授　谷本千雅子</itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050805tanimoto02_podcast.mp4" length="7453928" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20050805tanimoto02_podcast.mp4</guid>
-<pubDate>Fri, 05 Aug 2005 09:30:00 +0900 </pubDate>
-<itunes:duration>0:01:05</itunes:duration>
-<itunes:keywords>ジェンダー セクシュアリティ 名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
-</item>
-
-
-<item>
-<title>力学 I</title>
-<itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>大学院理学研究科　教授　大島隆義</itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050809ohshima_podcast.mp4" length="11479860" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20050809ohshima_podcast.mp4</guid>
-<pubDate>Tue, 09 Aug 2005 09:30:00 +0900 </pubDate>
-<itunes:duration>0:01:40</itunes:duration>
-<itunes:keywords>力学 名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
-</item>
-
-
-<item>
-<title>英語(リーディング)4</title>
-<itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>大学院国際開発研究科　助教授　山下淳子</itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050809yamashita02_podcast.mp4" length="14304209" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20050809yamashita02_podcast.mp4</guid>
-<pubDate>Tue, 09 Aug 2005 09:30:00 +0900 </pubDate>
-<itunes:duration>0:01:40</itunes:duration>
-<itunes:keywords>英語　リーディング 名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
-</item>
-
-
-<item>
-<title>基礎セミナーA (図書館情報リテラシー : 図書館と情報を使いこなす)</title>
-<itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>大学院情報科学研究科　教授　逸村裕</itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050823itsumura_podcast.mp4" length="13474023" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20050823itsumura_podcast.mp4</guid>
-<pubDate>Tue, 23 Aug 2005 09:30:00 +0900 </pubDate>
-<itunes:duration>0:01:58</itunes:duration>
-<itunes:keywords>図書館情報リテラシー 図書館 情報 リテラシー 名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
-</item>
-
-
-<item>
-<title>情報通信工学第２</title>
-<itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>大学院工学研究科　教授　片山正昭</itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050824katayama_podcast.mp4" length="5628457" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20050824katayama_podcast.mp4</guid>
-<pubDate>Wed, 24 Aug 2005 09:30:00 +0900 </pubDate>
-<itunes:duration>0:00:49</itunes:duration>
-<itunes:keywords>情報通信工学 情報 通信 工学 名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
-</item>
-
-
-<item>
-<title>生命農学基礎講義</title>
-<itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>大学院生命農学研究科　助教授　岩崎雄吾</itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050825iwasaki_podcast.mp4" length="6260239" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20050825iwasaki_podcast.mp4</guid>
-<pubDate>Thu, 25 Aug 2005 09:30:00 +0900 </pubDate>
-<itunes:duration>0:00:54</itunes:duration>
-<itunes:keywords>生命農学基礎講義 生命 農学 基礎  名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
-</item>
-
-
-<item>
-<title>管理会計</title>
-<itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>大学院経済学研究科　教授　木村彰吾</itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050825kimura_podcast.mp4" length="11064864" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20050825kimura_podcast.mp4</guid>
-<pubDate>Thu, 25 Aug 2005 09:30:00 +0900 </pubDate>
-<itunes:duration>0:01:37</itunes:duration>
-<itunes:keywords>管理会計 管理 会計  名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
-</item>
-
-
-<item>
-<title>経済理論 I </title>
-<itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>大学院経済学研究科　講師　柳原光芳</itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050825yangihara4_podcast.mp4" length="14194395" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20050825yangihara4_podcast.mp4</guid>
-<pubDate>Thu, 25 Aug 2005 09:30:00 +0900 </pubDate>
-<itunes:duration>0:02:04</itunes:duration>
-<itunes:keywords>経済理論 経済 理論  名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
-</item>
-
-
-<item>
-<title>情報と法</title>
-<itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>大学院法学研究科　助教授　大屋雄裕</itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050826ohya_podcast.mp4" length="6444349" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20050826ohya_podcast.mp4</guid>
-<pubDate>Fri, 26 Aug 2005 09:30:00 +0900 </pubDate>
-<itunes:duration>0:00:56</itunes:duration>
-<itunes:keywords>情報と法 情報 法  名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
-</item>
-
-
-<item>
-<title>統計分析</title>
-<itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>大学院環境学研究科　教授　川崎誠一</itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050901kawasaki_podcast.mp4" length="6743927" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20050901kawasaki_podcast.mp4</guid>
-<pubDate>Thu, 01 Sep 2005 09:30:00 +0900 </pubDate>
-<itunes:duration>0:00:59</itunes:duration>
-<itunes:keywords>統計分析 統計 分析  名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
-</item>
-
-
-<item>
-<title>文系基礎科目－法学</title>
-<itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>大学院法学研究科　助教授　岡本裕樹</itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050901okamoto_podcast.mp4" length="7771769" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20050901okamoto_podcast.mp4</guid>
-<pubDate>Thu, 01 Sep 2005 09:30:00 +0900 </pubDate>
-<itunes:duration>0:01:08</itunes:duration>
-<itunes:keywords>文系基礎科目－法学 文系基礎科目 法学  名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
-</item>
-
-
-<item>
-<title>民法II</title>
-<itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>大学院法学研究科　助教授　田高寛貴</itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050901tadaka_podcast.mp4" length="8318709" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20050901tadaka_podcast.mp4</guid>
-<pubDate>Thu, 01 Sep 2005 09:30:00 +0900 </pubDate>
-<itunes:duration>0:01:13</itunes:duration>
-<itunes:keywords>民法  名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
-</item>
-
-
-<item>
-<title>全学教養科目－未来の大学像をつくる</title>
-<itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>高等教育研究センター　助教授　近田政博</itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050908chikada_podcast.mp4" length="8415824" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20050908chikada_podcast.mp4</guid>
-<pubDate>Thu, 08 Sep 2005 09:30:00 +0900 </pubDate>
-<itunes:duration>0:01:14</itunes:duration>
-<itunes:keywords>全学教養科目－未来の大学像をつくる 全学教養科目 未来 大学像 つくる  名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
-</item>
-
-
-<item>
-<title>離散数学及び演習</title>
-<itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>大学院工学研究科　講師　草刈圭一朗</itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050908kusakari_podcast.mp4" length="6100488" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20050908kusakari_podcast.mp4</guid>
-<pubDate>Thu, 08 Sep 2005 09:30:00 +0900 </pubDate>
-<itunes:duration>0:00:53</itunes:duration>
-<itunes:keywords>離散数学及び演習　離散　数学　演習  名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
-</item>
-
-
-<item>
-<title>中国西南の民族と歴史</title>
-<itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>大学院文学研究科　助教授　林謙一郎</itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050930hayashi_podcast.mp4" length="4855508" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20050930hayashi_podcast.mp4</guid>
-<pubDate>Fri, 30 Sep 2005 09:30:00 +0900 </pubDate>
-<itunes:duration>0:00:42</itunes:duration>
-<itunes:keywords>中国　民族　歴史　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
-</item>
-
-
-<item>
-<title>物質情報学２</title>
-<itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>大学院情報科学研究科　助教授　中村泰之</itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20051007nakamura_podcast.mp4" length="7635118" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20051007nakamura_podcast.mp4</guid>
-<pubDate>Fri, 07 Oct 2005 09:30:00 +0900 </pubDate>
-<itunes:duration>0:01:17</itunes:duration>
-<itunes:keywords>物質情報学 物質 情報　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
-</item>
-
-
-<item>
-<title>資源植物環境学</title>
-<itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>大学院生命農学研究科　助教授　谷口光隆</itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20051116taniguchi1_podcast.mp4" length="8875530" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20051116taniguchi1_podcast.mp4</guid>
-<pubDate>Wed, 16 Nov 2005 09:30:00 +0900 </pubDate>
-<itunes:duration>0:01:18</itunes:duration>
-<itunes:keywords>資源植物環境学　資源　植物　環境　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
-</item>
-
-
-<item>
 <title>教育方法学講義II―授業分析と教育の科学化―</title>
 <itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>大学院教育発達科学研究科　教授　的場正美　助教授　柴田好章</itunes:subtitle>
+<itunes:subtitle>大学院教育発達科学研究科　教授　的場正美　准教授　柴田好章</itunes:subtitle>
 <itunes:summary></itunes:summary>
 <enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20051215matoba_shibata_podcast.mp4" length="5027105" type="video/mp4" />
 <guid>http://ocw.nagoya-u.jp/podcast/ocw20051215matoba_shibata_podcast.mp4</guid>
@@ -320,22 +451,9 @@
 
 
 <item>
-<title>英語(リーディング)2</title>
-<itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>大学院国際言語文化研究科　教授　外池俊幸</itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20051221tonoike_podcast.mp4" length="6877456" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20051221tonoike_podcast.mp4</guid>
-<pubDate>Wed, 21 Dec 2005 09:30:00 +0900 </pubDate>
-<itunes:duration>0:01:00</itunes:duration>
-<itunes:keywords>英語 リーディング　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
-</item>
-
-
-<item>
 <title>非線形制御特論</title>
 <itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>工学研究科　准教授　藤本健治</itunes:subtitle>
+<itunes:subtitle>大学院工学研究科　准教授　橋本健治</itunes:subtitle>
 <itunes:summary></itunes:summary>
 <enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20060808fujimoto.mp4" length="5968070" type="video/mp4" />
 <guid>http://ocw.nagoya-u.jp/podcast/ocw20060808fujimoto.mp4</guid>
@@ -346,93 +464,15 @@
 
 
 <item>
-<title>文系基礎地理学</title>
-<itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>大学院環境学研究科　教授　溝口常俊</itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20060809mizoguchi_podcast.mp4" length="6357618" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20060809mizoguchi_podcast.mp4</guid>
-<pubDate>Wed, 09 Aug 2006 09:30:00 +0900 </pubDate>
-<itunes:duration>0:00:55</itunes:duration>
-<itunes:keywords>文系基礎地理学 文系 地理学　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
-</item>
-
-
-<item>
 <title>留学生と日本</title>
 <itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>留学生センター　助教授　浮葉正親</itunes:subtitle>
+<itunes:subtitle>留学生センター　准教授　浮葉正親</itunes:subtitle>
 <itunes:summary></itunes:summary>
 <enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20060809ukiba_podcast.mp4" length="6646894" type="video/mp4" />
 <guid>http://ocw.nagoya-u.jp/podcast/ocw20060809ukiba_podcast.mp4</guid>
 <pubDate>Wed, 09 Aug 2006 09:30:00 +0900 </pubDate>
 <itunes:duration>0:00:58</itunes:duration>
 <itunes:keywords>留学生と日本 留学生 日本 留学　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
-</item>
-
-
-<item>
-<title>数学展望１</title>
-<itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>大学院多元数理学研究科　助教授　吉田健一</itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20060809yoshida_podcast.mp4" length="7855608" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20060809yoshida_podcast.mp4</guid>
-<pubDate>Wed, 09 Aug 2006 09:30:00 +0900 </pubDate>
-<itunes:duration>0:01:09</itunes:duration>
-<itunes:keywords>数学展望 数学 展望　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
-</item>
-
-
-<item>
-<title>宇宙物理学γ（宇宙論）</title>
-<itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>大学院理学研究科　助教授　松原隆彦</itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20060811matsubara_podcast.mp4" length="5657497" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20060811matsubara_podcast.mp4</guid>
-<pubDate>Fri, 11 Aug 2006 09:30:00 +0900 </pubDate>
-<itunes:duration>0:00:49</itunes:duration>
-<itunes:keywords>宇宙物理学γ（宇宙論） 宇宙 物理学 宇宙論 物理 　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
-</item>
-
-
-<item>
-<title>ロシア語2</title>
-<itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>大学院国際開発研究科　助教授　 SAVELIEV IGOR</itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20060821saveliev_podcast.mp4" length="6332480" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20060821saveliev_podcast.mp4</guid>
-<pubDate>Mon, 21 Aug 2006 09:30:00 +0900 </pubDate>
-<itunes:duration>0:00:55</itunes:duration>
-<itunes:keywords>ロシア語 ロシア 　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
-</item>
-
-
-<item>
-<title>ドイツ語１／ドイツ語２</title>
-<itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>大学院国際開発研究科　教授　 成田克史</itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20060825narita_podcast.mp4" length="21274675" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20060825narita_podcast.mp4</guid>
-<pubDate>Fri, 25 Aug 2006 09:30:00 +0900 </pubDate>
-<itunes:duration>0:03:07</itunes:duration>
-<itunes:keywords>ドイツ語 ドイツ 　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
-</item>
-
-
-<item>
-<title>ポスト・ローマ期ヨーロッパの表象構造</title>
-<itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>大学院文学研究科　教授　 佐藤彰一</itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20060913sato_podcast.mp4" length="27694741" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20060913sato_podcast.mp4</guid>
-<pubDate>Wed, 13 Sep 2006 09:30:00 +0900 </pubDate>
-<itunes:duration>0:04:04</itunes:duration>
-<itunes:keywords>ポスト・ローマ期ヨーロッパの表象構造 ポスト ローマ期 ヨーロッパ 表象構造 　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
 </item>
 
 
@@ -452,26 +492,13 @@
 <item>
 <title>計算情報学Ⅰ</title>
 <itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>大学院情報科学研究科　助教授　 鈴木泰博</itunes:subtitle>
+<itunes:subtitle>大学院情報科学研究科　准教授　 鈴木泰博</itunes:subtitle>
 <itunes:summary></itunes:summary>
 <enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20061006suzuki_podcast.mp4" length="4229414" type="video/mp4" />
 <guid>http://ocw.nagoya-u.jp/podcast/ocw20061006suzuki_podcast.mp4</guid>
 <pubDate>Fri, 06 Oct 2006 09:30:00 +0900 </pubDate>
 <itunes:duration>0:00:37</itunes:duration>
 <itunes:keywords>計算情報学　計算　情報 　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
-</item>
-
-
-<item>
-<title>科学・技術の哲学</title>
-<itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>大学院情報科学研究科　助教授　 伊勢田哲治</itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20061023iseda_podcast.mp4" length="5855268" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20061023iseda_podcast.mp4</guid>
-<pubDate>Mon, 23 Oct 2006 09:30:00 +0900 </pubDate>
-<itunes:duration>0:00:51</itunes:duration>
-<itunes:keywords>科学・技術の哲学 科学 技術 哲学 　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
 </item>
 
 
@@ -491,9 +518,9 @@
 <item>
 <title>現代日本語コース中級聴解</title>
 <itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>留学生センター　助教授　 石崎俊子</itunes:subtitle>
+<itunes:subtitle>留学生センター　准教授　 石崎俊子</itunes:subtitle>
 <itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20061025ishizaki_jp_podcast.mp4" length="10062211" type="video/mp4" />
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20061025ishizaki_jp_podcast.mp4" length="9197941" type="video/mp4" />
 <guid>http://ocw.nagoya-u.jp/podcast/ocw20061025ishizaki_jp_podcast.mp4</guid>
 <pubDate>Wed, 25 Oct 2006 09:30:00 +0900 </pubDate>
 <itunes:duration>0:01:20</itunes:duration>
@@ -504,39 +531,13 @@
 <item>
 <title>経営学</title>
 <itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>大学院経済学研究科　助教授　 宮崎正也</itunes:subtitle>
+<itunes:subtitle>大学院経済学研究科　准教授　 宮崎正也</itunes:subtitle>
 <itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20061102miyazaki_2_podcast.mp4" length="21054527" type="video/mp4" />
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20061102miyazaki_2_podcast.mp4" length="21110216" type="video/mp4" />
 <guid>http://ocw.nagoya-u.jp/podcast/ocw20061102miyazaki_2_podcast.mp4</guid>
 <pubDate>Thu, 02 Nov 2006 09:30:00 +0900 </pubDate>
 <itunes:duration>0:03:05</itunes:duration>
 <itunes:keywords>経営学 　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
-</item>
-
-
-<item>
-<title>朝鮮・韓国語</title>
-<itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>大学院国際言語文化研究科　教授　 飯田秀敏</itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20061124iida_podcast.mp4" length="7037437" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20061124iida_podcast.mp4</guid>
-<pubDate>Fri, 24 Nov 2006 09:30:00 +0900 </pubDate>
-<itunes:duration>0:01:01</itunes:duration>
-<itunes:keywords>朝鮮 韓国語 　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
-</item>
-
-
-<item>
-<title>名大の歴史をたどる</title>
-<itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>大学院文学研究科　教授　 羽賀祥二</itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20061129haga_podcast.mp4" length="11117119" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20061129haga_podcast.mp4</guid>
-<pubDate>Wed, 29 Nov 2006 09:30:00 +0900 </pubDate>
-<itunes:duration>0:01:37</itunes:duration>
-<itunes:keywords>歴史 　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
 </item>
 
 
@@ -593,19 +594,6 @@
 
 
 <item>
-<title>消化器</title>
-<itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>医学系研究科 教授 後藤 秀実</itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20070706goto.mp4" length="7734521" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20070706goto.mp4</guid>
-<pubDate>Tue, 15 Jul 2008 09:30:00 +0900 </pubDate>
-<itunes:duration>0:01:08</itunes:duration>
-<itunes:keywords>消化器 　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
-</item>
-
-
-<item>
 <title>機械創造設計製作</title>
 <itunes:author>名古屋大学</itunes:author>
 <itunes:subtitle>工学研究科 教授 生田幸士</itunes:subtitle>
@@ -654,6 +642,227 @@
 <pubDate>Tue, 15 Jul 2008 09:30:00 +0900 </pubDate>
 <itunes:duration>0:01:36</itunes:duration>
 <itunes:keywords>固体　力学　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>消化器</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>医学系研究科 教授 後藤 秀実</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20070706goto.mp4" length="7734521" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20070706goto.mp4</guid>
+<pubDate>Tue, 15 Jul 2008 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:08</itunes:duration>
+<itunes:keywords>消化器 　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>動物感覚情報学</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>生命農学研究科 教授 宗宮弘明</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20071105somiya_podcast.mp4" length="4654846" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20071105somiya_podcast.mp4</guid>
+<pubDate>Tue, 23 Jun 2009 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:50</itunes:duration>
+<itunes:keywords>　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>数学展望　II</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>多元数理科学研究科 准教授 粟田英資</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20080305awata_podcast.mp4" length="2275406" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20080305awata_podcast.mp4</guid>
+<pubDate>Tue, 23 Jun 2009 09:30:00 +0900 </pubDate>
+<itunes:duration>0:00:53</itunes:duration>
+<itunes:keywords>　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>テクノフロンティアセミナー2008：A. 電子ブロックで体験する物理と研究最前線</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>工学研究科 助教 水津光司</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20090209tefs_a_podcast.mp4" length="2191947" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20090209tefs_a_podcast.mp4</guid>
+<pubDate>Tue, 23 Jun 2009 09:30:00 +0900 </pubDate>
+<itunes:duration>0:00:52</itunes:duration>
+<itunes:keywords>　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>テクノフロンティアセミナー2008：B. エコロジーな発電装置を作ろう！</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>工学研究科 助教 本田善央 助教 一野祐亮</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20090209tefs_b_podcast.mp4" length="3059494" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20090209tefs_b_podcast.mp4</guid>
+<pubDate>Tue, 23 Jun 2009 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:12</itunes:duration>
+<itunes:keywords>　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>テクノフロンティアセミナー2008：C. マイナスイオンでリフレッシュ！</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>工学研究科 助教 岸本茂 助教 石島達夫</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20090209tefs_c_podcast.mp4" length="4066845" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20090209tefs_c_podcast.mp4</guid>
+<pubDate>Tue, 23 Jun 2009 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:35</itunes:duration>
+<itunes:keywords>　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>テクノフロンティアセミナー2008：D. ロボットのしくみを理解する</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>工学研究科 助教 宮島千代美</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20090209tefs_d_podcast.mp4" length="4105502" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20090209tefs_d_podcast.mp4</guid>
+<pubDate>Tue, 23 Jun 2009 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:36</itunes:duration>
+<itunes:keywords>　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>テクノフロンティアセミナー2008：E. ライントレースカーを作る</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>工学研究科 助教 圓道知博</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20090209tefs_e_podcast.mp4" length="2311224" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20090209tefs_e_podcast.mp4</guid>
+<pubDate>Tue, 23 Jun 2009 09:30:00 +0900 </pubDate>
+<itunes:duration>0:54:00</itunes:duration>
+<itunes:keywords>　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>テクノフロンティアセミナー2008：F. 携帯で動くアプリ開発</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>工学研究科 助教 濱口毅</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20090209tefs_f_podcast.mp4" length="3853765" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20090209tefs_f_podcast.mp4</guid>
+<pubDate>Tue, 23 Jun 2009 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:31</itunes:duration>
+<itunes:keywords>　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>数学アゴラ2008：正多面体と群</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>多元数理科学研究科 准教授 林孝宏</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20090210agora_hayashi_podcast.mp4" length="1626917" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20090210agora_hayashi_podcast.mp4</guid>
+<pubDate>Tue, 23 Jun 2009 09:30:00 +0900 </pubDate>
+<itunes:duration>0:00:38</itunes:duration>
+<itunes:keywords>　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>数学アゴラ2008：連分数の不思議な世界</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>多元数理科学研究科 准教授 糸健太郎</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20090210agora_ito_podcast.mp4" length="1662628" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20090210agora_ito_podcast.mp4</guid>
+<pubDate>Tue, 23 Jun 2009 09:30:00 +0900 </pubDate>
+<itunes:duration>0:00:39</itunes:duration>
+<itunes:keywords>　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>数学アゴラ2008：図形をドミノで敷き詰める</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>多元数理科学研究科 准教授 南和彦</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20090210agora_minami_podcast.mp4" length="2205742" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20090210agora_minami_podcast.mp4</guid>
+<pubDate>Tue, 23 Jun 2009 09:30:00 +0900 </pubDate>
+<itunes:duration>0:00:52</itunes:duration>
+<itunes:keywords>　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>西洋中世史が解決すべき幾つかの大きな問題</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>文学研究科 教授 佐藤彰一</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20090424farewell_satou(syouiti)_podcast.mp4" length="8856050" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20090424farewell_satou(syouiti)_podcast.mp4</guid>
+<pubDate>Tue, 23 Jun 2009 09:30:00 +0900 </pubDate>
+<itunes:duration>0:03:29</itunes:duration>
+<itunes:keywords>　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>光と大気の窓</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>理学研究科 教授 佐藤修二</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20090424farewell_satou(syuuji)_podcast.mp4" length="3008505" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20090424farewell_satou(syuuji)_podcast.mp4</guid>
+<pubDate>Tue, 23 Jun 2009 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:11</itunes:duration>
+<itunes:keywords>　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>メダカに明け、メダカに暮れ</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>生物機能開発利用研究センター 教授 若松佑子</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20090424farewell_wakamatsu_podcast.mp4" length="7988300" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20090424farewell_wakamatsu_podcast.mp4</guid>
+<pubDate>Tue, 23 Jun 2009 09:30:00 +0900 </pubDate>
+<itunes:duration>0:03:08</itunes:duration>
+<itunes:keywords>　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>大学における研究開発の在り方一考察</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>工学研究科 教授 村松 直樹</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20090424farewell_muramatsu_podcast.mp4" length="4067931" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20090424farewell_muramatsu_podcast.mp4</guid>
+<pubDate>Tue, 23 Jun 2009 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:36</itunes:duration>
+<itunes:keywords>　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>名古屋大学 OCW 紹介 2009</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>名古屋大学オープンコースウェア委員会　委員長　山本一良</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20090520yamamoto_ocw_podcast.mp4" length="7501818" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20090520yamamoto_ocw_podcast.mp4</guid>
+<pubDate>Tue, 23 Jun 2009 09:30:00 +0900 </pubDate>
+<itunes:duration>0:02:57</itunes:duration>
+<itunes:keywords>あいさつ　挨拶 　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
 </item>
 
 
