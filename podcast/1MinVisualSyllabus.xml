@@ -1074,5 +1074,44 @@
 </item>
 
 
+<item>
+<title>腫瘍学概論</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>医学研究科 教授 高橋雅英</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20090919takahashi.mp4" length="7563031" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20090919takahashi.mp4</guid>
+<pubDate>Sat, 19 Sep 2009 09:30:00 +0900 </pubDate>
+<itunes:duration>0:02:48</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
+<item>
+<title>比較文学論</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>国際言語文化研究科 准教授 渡辺美樹</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20090919watanabe.mp4" length="4766952" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20090919watanabe.mp4</guid>
+<pubDate>Sat, 19 Sep 2009 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:43</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
+<item>
+<title>環境行動論</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>環境学研究科 教授 廣瀬幸雄</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20090919hirose.mp4" length="3351056" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20090919hirose.mp4</guid>
+<pubDate>Sat, 19 Sep 2009 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:19</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
 </channel>
 </rss>
