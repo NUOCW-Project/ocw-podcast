@@ -1112,6 +1112,53 @@
 <itunes:keywords></itunes:keywords>
 </item>
 
+<item>
+<title>フィンランド語文法</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>文学研究科 准教授 佐久間淳一</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20091226sakuma.mp4" length="4628809" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20091226sakuma.mp4</guid>
+<pubDate>Sat, 26 Dec 2009 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:48</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+<item>
+<title>海外実地研修</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>生命農学研究科 教授 前多敬一郎</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20091226maeda.mp4" length="2691646" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20091226maeda.mp4</guid>
+<pubDate>Sat, 26 Dec 2009 09:30:00 +0900 </pubDate>
+<itunes:duration>0:00:59</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+<item>
+<title>開発政治学</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>国際開発研究科 教授 木村宏恒</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20091226kimura.mp4" length="5144767" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20091226kimura.mp4</guid>
+<pubDate>Sat, 26 Dec 2009 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:46</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+<item>
+<title>情報リテラシー</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>情報科学研究科 教授 横井茂樹</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20091226yokoi.mp4" length="4905335" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20091226yokoi.mp4</guid>
+<pubDate>Sat, 26 Dec 2009 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:55</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
 
 </channel>
 </rss>
