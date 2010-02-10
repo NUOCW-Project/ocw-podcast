@@ -540,7 +540,7 @@
 <itunes:keywords>経営学 　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
 </item>
 
-
+<!--
 <item>
 <title>ようこそ名大の授業へ</title>
 <itunes:author>名古屋大学</itunes:author>
@@ -552,7 +552,7 @@
 <itunes:duration>0:01:45</itunes:duration>
 <itunes:keywords>あいさつ　挨拶 　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
 </item>
-
+-->
 
 <item>
 <title>応用行動学講義 II -産業・組織の心理学-</title>
@@ -1159,6 +1159,79 @@
 <itunes:duration>0:01:55</itunes:duration>
 <itunes:keywords></itunes:keywords>
 </item>
+
+<item>
+<title>マイクロマシン～ミリ・マイクロ・ナノ世界のためのものつくり～</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>工学研究科 助教 安藤妙子</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20100210ando.mp4" length="1662686" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20100210ando.mp4</guid>
+<pubDate>Wed, 10 Feb 2010 09:30:00 +0900 </pubDate>
+<itunes:duration>0:00:39</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+<item>
+<title>家族看護学</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>医学部 教授 浅野みどり</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20100210asano.mp4" length="6661908" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20100210asano.mp4</guid>
+<pubDate>Wed, 10 Feb 2010 09:30:00 +0900 </pubDate>
+<itunes:duration>0:02:20</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+<item>
+<title>オペラの魔力とはなにか</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>工学研究科 名誉教授 一宮彪彦</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20100210ichimiya.mp4" length="10924974" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20100210ichimiya.mp4</guid>
+<pubDate>Wed, 10 Feb 2010 09:30:00 +0900 </pubDate>
+<itunes:duration>0:03:53</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+<item>
+<title>女性も頑張ってます！～“土木”の世界～</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>工学研究科 研究員 田代むつみ</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20100210tashiro.mp4" length="2468528" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20100210tashiro.mp4</guid>
+<pubDate>Wed, 10 Feb 2010 09:30:00 +0900 </pubDate>
+<itunes:duration>0:00:57</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+<item>
+<title>女子中高生理系進学セミナー2008</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>男女共同参画室 室長 束村博子</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20100210tsukamura.mp4" length="2357757" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20100210tsukamura.mp4</guid>
+<pubDate>Wed, 10 Feb 2010 09:30:00 +0900 </pubDate>
+<itunes:duration>0:00:55</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+<item>
+<title>ようこそ名大の授業へ</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>オープンコースウェア委員会 委員長 山本一良</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20100210yamamoto.mp4" length="7756485" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20100210yamamoto.mp4</guid>
+<pubDate>Wed, 10 Feb 2010 09:30:00 +0900 </pubDate>
+<itunes:duration>0:02:43</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
 
 </channel>
 </rss>
