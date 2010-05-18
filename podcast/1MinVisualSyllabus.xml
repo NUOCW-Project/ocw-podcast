@@ -107,7 +107,7 @@
 <enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050809yamashita02_podcast.mp4" length="14304209" type="video/mp4" />
 <guid>http://ocw.nagoya-u.jp/podcast/ocw20050809yamashita02_podcast.mp4</guid>
 <pubDate>Tue, 09 Aug 2005 09:30:00 +0900 </pubDate>
-<itunes:duration>0:01:40</itunes:duration>
+<itunes:duration>0:02:05</itunes:duration>
 <itunes:keywords>英語　リーディング 名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
 </item>
 
@@ -159,7 +159,7 @@
 <enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050825yangihara4_podcast.mp4" length="7917423" type="video/mp4" />
 <guid>http://ocw.nagoya-u.jp/podcast/ocw20050825yangihara4_podcast.mp4</guid>
 <pubDate>Thu, 25 Aug 2005 09:30:00 +0900 </pubDate>
-<itunes:duration>0:02:04</itunes:duration>
+<itunes:duration>0:01:09</itunes:duration>
 <itunes:keywords>経済理論 経済 理論  名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
 </item>
 
@@ -276,7 +276,7 @@
 <enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20051007nakamura_podcast.mp4" length="7635118" type="video/mp4" />
 <guid>http://ocw.nagoya-u.jp/podcast/ocw20051007nakamura_podcast.mp4</guid>
 <pubDate>Fri, 07 Oct 2005 09:30:00 +0900 </pubDate>
-<itunes:duration>0:01:17</itunes:duration>
+<itunes:duration>0:01:07</itunes:duration>
 <itunes:keywords>物質情報学 物質 情報　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
 </item>
 
@@ -399,7 +399,7 @@
 
 
 <item>
-<title>数学展望１</title>
+<title>数学展望 I</title>
 <itunes:author>名古屋大学</itunes:author>
 <itunes:subtitle>多元数理学研究科　准教授　吉田健一</itunes:subtitle>
 <itunes:summary></itunes:summary>
@@ -540,24 +540,11 @@
 <itunes:keywords>経営学 　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
 </item>
 
-<!--
-<item>
-<title>ようこそ名大の授業へ</title>
-<itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>名古屋大学オープンコースウェア委員会　委員長　 杉山寛行</itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20061219sugiyama_podcast.mp4" length="12040687" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20061219sugiyama_podcast.mp4</guid>
-<pubDate>Tue, 19 Dec 2006 09:30:00 +0900 </pubDate>
-<itunes:duration>0:01:45</itunes:duration>
-<itunes:keywords>あいさつ　挨拶 　名古屋大学 名大　名大の授業　1分間授業紹介　OCW　ocw</itunes:keywords>
-</item>
--->
 
 <item>
 <title>応用行動学講義 II -産業・組織の心理学-</title>
 <itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>教育学部・教育発達科学研究科　教授　金井篤子</itunes:subtitle>
+<itunes:subtitle>教育発達科学研究科　教授　金井篤子</itunes:subtitle>
 <itunes:summary></itunes:summary>
 <enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20070525kanai.mp4" length="9723704" type="video/mp4" />
 <guid>http://ocw.nagoya-u.jp/podcast/ocw20070525kanai.mp4</guid>
@@ -1112,6 +1099,7 @@
 <itunes:keywords></itunes:keywords>
 </item>
 
+
 <item>
 <title>フィンランド語文法</title>
 <itunes:author>名古屋大学</itunes:author>
@@ -1123,6 +1111,7 @@
 <itunes:duration>0:01:48</itunes:duration>
 <itunes:keywords></itunes:keywords>
 </item>
+
 
 <item>
 <title>海外実地研修</title>
@@ -1136,6 +1125,7 @@
 <itunes:keywords></itunes:keywords>
 </item>
 
+
 <item>
 <title>開発政治学</title>
 <itunes:author>名古屋大学</itunes:author>
@@ -1147,6 +1137,7 @@
 <itunes:duration>0:01:46</itunes:duration>
 <itunes:keywords></itunes:keywords>
 </item>
+
 
 <item>
 <title>情報リテラシー</title>
@@ -1160,6 +1151,7 @@
 <itunes:keywords></itunes:keywords>
 </item>
 
+
 <item>
 <title>マイクロマシン～ミリ・マイクロ・ナノ世界のためのものつくり～</title>
 <itunes:author>名古屋大学</itunes:author>
@@ -1171,6 +1163,7 @@
 <itunes:duration>0:00:39</itunes:duration>
 <itunes:keywords></itunes:keywords>
 </item>
+
 
 <item>
 <title>家族看護学</title>
@@ -1184,6 +1177,7 @@
 <itunes:keywords></itunes:keywords>
 </item>
 
+
 <item>
 <title>オペラの魔力とはなにか</title>
 <itunes:author>名古屋大学</itunes:author>
@@ -1195,6 +1189,7 @@
 <itunes:duration>0:03:53</itunes:duration>
 <itunes:keywords></itunes:keywords>
 </item>
+
 
 <item>
 <title>女性も頑張ってます！～“土木”の世界～</title>
@@ -1208,6 +1203,7 @@
 <itunes:keywords></itunes:keywords>
 </item>
 
+
 <item>
 <title>女子中高生理系進学セミナー2008</title>
 <itunes:author>名古屋大学</itunes:author>
@@ -1220,6 +1216,7 @@
 <itunes:keywords></itunes:keywords>
 </item>
 
+
 <item>
 <title>ようこそ名大の授業へ</title>
 <itunes:author>名古屋大学</itunes:author>
@@ -1229,6 +1226,84 @@
 <guid>http://ocw.nagoya-u.jp/podcast/ocw20100210yamamoto.mp4</guid>
 <pubDate>Wed, 10 Feb 2010 09:30:00 +0900 </pubDate>
 <itunes:duration>0:02:43</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
+<item>
+<title>メディアディスコース分析論</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>国際言語文化研究科 准教授 エドワード・ヘイグ </itunes:subtitle>
+<itunes:summary> </itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20100517haig_ja.mp4" length="9243560" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20100517haig_ja.mp4</guid>
+<pubDate>Mon, 17 May 2010 09:30:00 +0900 </pubDate>
+<itunes:duration>0:03:19</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
+<item>
+<title>Media Discourse Analysis</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>国際言語文化研究科 准教授 エドワード・ヘイグ </itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20100517haig_en.mp4" length="6264928" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20100517haig_en.mp4</guid>
+<pubDate>Mon, 17 May 2010 09:30:00 +0900 </pubDate>
+<itunes:duration>0:02:14</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
+<item>
+<title>心理・教育の統計学</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>教育発達科学研究科 准教授 石井秀宗</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20100517ishii.mp4" length="5806151" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20100517ishii.mp4</guid>
+<pubDate>Mon, 17 May 2010 09:30:00 +0900 </pubDate>
+<itunes:duration>0:02:01</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
+<item>
+<title>発達障害治療学及び実習</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>医学部 教授 辛島千恵子</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20100517karashima.mp4" length="8437239" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20100517karashima.mp4</guid>
+<pubDate>Mon, 17 May 2010 09:30:00 +0900 </pubDate>
+<itunes:duration>0:02:54</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
+<item>
+<title>異文化交流論</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>国際言語文化研究科 教授 涌井隆</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20100517wakui.mp4" length="2774910" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20100517wakui.mp4</guid>
+<pubDate>Mon, 17 May 2010 09:30:00 +0900 </pubDate>
+<itunes:duration>0:02:09</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
+<item>
+<title>心理学II</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>教育発達科学研究科 教授 松本真理子</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20100517matsumoto.mp4" length="4817067" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20100517matsumoto.mp4</guid>
+<pubDate>Mon, 17 May 2010 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:44</itunes:duration>
 <itunes:keywords></itunes:keywords>
 </item>
 
