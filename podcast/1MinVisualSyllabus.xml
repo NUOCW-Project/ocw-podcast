@@ -503,19 +503,6 @@
 
 
 <item>
-<title>Intermediate Japanese Listening Course</title>
-<itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>Education Center for International Students　Assoc. Prof. Toshiko ISHIZAKI</itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20061025ishizaki_en_podcast.mp4" length="10062211" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20061025ishizaki_en_podcast.mp4</guid>
-<pubDate>Wed, 25 Oct 2006 09:30:00 +0900 </pubDate>
-<itunes:duration>0:01:28</itunes:duration>
-<itunes:keywords>Intermediate Japanese Listening Course 　Nagoya-Univ nagoya University OpenCourseWare 　1分間授業紹介　OCW　ocw</itunes:keywords>
-</item>
-
-
-<item>
 <title>現代日本語コース中級聴解</title>
 <itunes:author>名古屋大学</itunes:author>
 <itunes:subtitle>留学生センター　准教授　 石崎俊子</itunes:subtitle>
@@ -1244,19 +1231,6 @@
 
 
 <item>
-<title>Media Discourse Analysis</title>
-<itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>国際言語文化研究科 准教授 エドワード・ヘイグ </itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20100517haig_en.mp4" length="6264928" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20100517haig_en.mp4</guid>
-<pubDate>Mon, 17 May 2010 09:30:00 +0900 </pubDate>
-<itunes:duration>0:02:14</itunes:duration>
-<itunes:keywords></itunes:keywords>
-</item>
-
-
-<item>
 <title>心理・教育の統計学</title>
 <itunes:author>名古屋大学</itunes:author>
 <itunes:subtitle>教育発達科学研究科 准教授 石井秀宗</itunes:subtitle>
@@ -1283,19 +1257,6 @@
 
 
 <item>
-<title>異文化交流論</title>
-<itunes:author>名古屋大学</itunes:author>
-<itunes:subtitle>国際言語文化研究科 教授 涌井隆</itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20100517wakui.mp4" length="2774910" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20100517wakui.mp4</guid>
-<pubDate>Mon, 17 May 2010 09:30:00 +0900 </pubDate>
-<itunes:duration>0:02:09</itunes:duration>
-<itunes:keywords></itunes:keywords>
-</item>
-
-
-<item>
 <title>心理学II</title>
 <itunes:author>名古屋大学</itunes:author>
 <itunes:subtitle>教育発達科学研究科 教授 松本真理子</itunes:subtitle>
@@ -1304,6 +1265,19 @@
 <guid>http://ocw.nagoya-u.jp/podcast/ocw20100517matsumoto.mp4</guid>
 <pubDate>Mon, 17 May 2010 09:30:00 +0900 </pubDate>
 <itunes:duration>0:01:44</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
+<item>
+<title>言語文化学方法論</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>国際言語文化研究科 教授 福田眞人</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20100525fukuda.mp4" length="3414614" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20100525fukuda.mp4</guid>
+<pubDate>Tue, 25 May 2010 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:20</itunes:duration>
 <itunes:keywords></itunes:keywords>
 </item>
 
