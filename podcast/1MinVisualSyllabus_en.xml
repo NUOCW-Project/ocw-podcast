@@ -1,93 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"> 
- 
-<channel> 
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 
-<title>NU OCW 1 minute Video Summary</title> 
-<link>http://ocw.nagoya-u.jp/</link> 
-<language>en</language> 
-<copyright>&#x2117; &amp; &#xA9; 2007 Nagoya Univ</copyright> 
-<itunes:subtitle></itunes:subtitle> 
-<itunes:author>Nagoya University</itunes:author> 
-<itunes:summary>Introduction Video about the lecture and its appeal by the advicer's voice</itunes:summary>
-<itunes:owner> 
-<itunes:name>OCW Administrative Office, Nagoya University</itunes:name> 
-<itunes:email>nuocw-inquiry@media.nagoya-u.ac.jp</itunes:email> 
-</itunes:owner> 
-<itunes:image href="http://ocw.nagoya-u.jp/podcast/artwork.jpg" />
-<itunes:category text="Education"> 
-<itunes:category text="Higher Education"/> 
-</itunes:category> 
+<channel>
+<ttl>60</ttl>
+<title>NU OCW 1 minute Video Summary</title>
+<link>http://ocw.nagoya-u.jp/</link>
+<language>en</language>
+<copyright>&#x2117; &amp; &#xA9; 2006- Nagoya University</copyright>
+<itunes:subtitle></itunes:subtitle>
+<itunes:author>Nagoya University</itunes:author>
+<itunes:summary>Introduction Video about the lecture and its appeal by the advicer's voice.</itunes:summary>
+<itunes:owner>
+<itunes:name>OCW Administrative Office, Nagoya University</itunes:name>
+<itunes:email>nuocw-inquiry@media.nagoya-u.ac.jp</itunes:email>
+</itunes:owner>
+<itunes:image href="http://ocw.nagoya-u.jp/podcast/artwork.jpg"/>
+<itunes:category text="Education" > 
+<itunes:category text="Higher Education"/>
+</itunes:category>
 
 
 <item>
-<title>Intermediate Japanese Listening Course</title> 
-<itunes:author>Nagoya-Univ</itunes:author> 
-<itunes:subtitle>Toshiko ISHIZAKI, Associate Professor, Education Center for International Students</itunes:subtitle> 
-<itunes:summary></itunes:summary> 
-<itunes:explicit>no</itunes:explicit> 
+<title>Intermediate Japanese Listening Course</title>
+<itunes:author>Nagoya University</itunes:author>
+<itunes:subtitle>Toshiko ISHIZAKI, Associate Professor, Education Center for International Students</itunes:subtitle>
+<itunes:summary></itunes:summary>
 <enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20061025ishizaki_en_podcast.mp4" length="10062211" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20061025ishizaki_en_podcast.mp4</guid> 
-<pubDate>Wed, 25 Oct 2006 09:30:00 +0900</pubDate>
-<itunes:duration>01:28</itunes:duration> 
-<itunes:keywords>Intermediate Japanese Listening Course Nagoya-Univ Nagoya University OpenCourseWare 1 minute video summary OCW ocw</itunes:keywords> 
-</item>
-
-
-<item> 
-<title>Basic Seminar A (Playing in the World of Civil Law) (in Japanese)</title> 
-<itunes:author>Nagoya-Univ</itunes:author> 
-<itunes:subtitle>Emiko CHIBA, Professor, Law School</itunes:subtitle> 
-<itunes:summary></itunes:summary> 
-<itunes:explicit>no</itunes:explicit> 
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050804chiba_podcast.mp4" length="9225988" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20050804chiba_podcast.mp4</guid> 
-<pubDate>Thu, 04 Aug 2005 09:30:00 +0900</pubDate>
-<itunes:duration>01:20</itunes:duration> 
-<itunes:keywords>Basic Seminar Civil Law Nagoya-Univ Nagoya University NU OCW 1 minute video summary OpenCourseWare OCW ocw</itunes:keywords> 
-</item>
-
-
-<item> 
-<title>Basics of Bioagricultural Sciences (in Japanese)</title> 
-<itunes:author>Nagoya-Univ</itunes:author> 
-<itunes:subtitle>Yugo IWASAKI, Associate Professor, Graduate School of Bioagricultural Sciences</itunes:subtitle> 
-<itunes:summary></itunes:summary> 
-<itunes:explicit>no</itunes:explicit> 
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050825iwasaki_podcast.mp4" length="6260239" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20050825iwasaki_podcast.mp4</guid> 
-<pubDate>Thu, 25 Aug 2005 09:30:00 +0900</pubDate>
-<itunes:duration>00:54</itunes:duration> 
-<itunes:keywords>Basics of Bioagricultural Sciences Nagoya-Univ Nagoya University NU OCW 1 minute video summary OpenCourseWare OCW ocw</itunes:keywords> 
-</item>
-
-
-<item> 
-<title>University-Wide Liberal Arts (in Japanese)</title> 
-<itunes:author>Nagoya-Univ</itunes:author> 
-<itunes:subtitle>Masahiko CHIKADA, Associate Professor, Center for the Studies of Higher Education</itunes:subtitle> 
-<itunes:summary></itunes:summary> 
-<itunes:explicit>no</itunes:explicit> 
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050908chikada_podcast.mp4" length="8415824" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20050908chikada_podcast.mp4</guid> 
-<pubDate>Thu, 08 Sep 2005 09:30:00 +0900</pubDate>
-<itunes:duration>01:14</itunes:duration> 
-<itunes:keywords>Creating future university image University-Wide Liberal Arts Nagoya-Univ Nagoya University NU OCW 1 minute video summary OpenCourseWare OCW ocw</itunes:keywords> 
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20061025ishizaki_en_podcast.mp4</guid>
+<pubDate>Wed, 25 Oct 2006 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:28</itunes:duration>
+<itunes:keywords>Intermediate Japanese Listening Course 　Nagoya-Univ nagoya University OpenCourseWare</itunes:keywords>
 </item>
 
 
 <item>
-<title>Welcome to Nagoya University OpenCourseWare (in Japanese)</title> 
-<itunes:author>Nagoya-Univ</itunes:author> 
-<itunes:subtitle>Hiroyuki Sugiyama, Chairperson, Nagoya University OpenCourseWare Committee</itunes:subtitle> 
-<itunes:summary></itunes:summary> 
-<itunes:explicit>no</itunes:explicit> 
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20061219sugiyama_podcast.mp4" length="12040687" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20061219sugiyama_podcast.mp4</guid> 
-<pubDate>Tue, 19 Dec 2006 09:30:00 +0900</pubDate>
-<itunes:duration>01:45</itunes:duration> 
-<itunes:keywords>Introduction Nagoya-Univ Nagoya University NU OCW 1 minute video summary OpenCourseWare OCW ocw</itunes:keywords> 
+<title>Algebraic Topology I</title>
+<itunes:author>Nagoya University</itunes:author>
+<itunes:subtitle>Lars Hesselholt, Professor, Graduate School of Mathematics</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20090731lars.mp4" length="4983313" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20090731lars.mp4</guid>
+<pubDate>Fri, 31 Jul 2009 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:56</itunes:duration>
+<itunes:keywords></itunes:keywords>
 </item>
 
-</channel> 
+
+<item>
+<title>Media Discourse Analysis</title>
+<itunes:author>Nagoya University</itunes:author>
+<itunes:subtitle>Edward Haig,  Associate Professor, Graduate School of Languages and Cultures</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20100517haig_en.mp4" length="6264928" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20100517haig_en.mp4</guid>
+<pubDate>Mon, 17 May 2010 09:30:00 +0900 </pubDate>
+<itunes:duration>0:02:14</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
+<item>
+<title>Welcome to Nagoya University OpenCourseWare</title>
+<itunes:author>Nagoya University</itunes:author>
+<itunes:subtitle>Ichiro YAMAMOTO, Chairperson, OpenCourseWare Committee</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20100525yamamoto_en.mp4" length="13719454" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20100525yamamoto_en.mp4</guid>
+<pubDate>Tue, 25 May 2010 09:30:00 +0900 </pubDate>
+<itunes:duration>0:04:47</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
+</channel>
 </rss>
