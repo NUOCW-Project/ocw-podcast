@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 
 <channel>
@@ -1281,6 +1281,17 @@
 <itunes:keywords></itunes:keywords>
 </item>
 
+<item>
+<title>先端文化思想論ab</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>国際言語文化研究科 教授 越智和弘</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20100608ochi.mp4" length="10815288" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20100608ochi.mp4</guid>
+<pubDate>Tue, 8 Jun 2010 09:30:00 +0900 </pubDate>
+<itunes:duration>0:03:43</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
 
 </channel>
 </rss>
