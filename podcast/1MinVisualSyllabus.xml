@@ -1305,5 +1305,16 @@
 <itunes:keywords></itunes:keywords>
 </item>
 
+<item>
+<title>開発経済統計学</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>国際開発研究科 教授 藤川清史</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20100611hujikawa.mp4" length="2665871" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20100611hujikawa.mp4</guid>
+<pubDate>Fri, 11 Jun 2010 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:03</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
 </channel>
 </rss>
