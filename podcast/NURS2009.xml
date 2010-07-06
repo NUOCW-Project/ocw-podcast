@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="UTF-8"?> 
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"> 
+ 
+<channel> 
+
+<title>名古屋大学リレーセミナー だいじょうぶか！安全・安心で持続可能な社会をめざして</title>
+<link>http://ocw.nagoya-u.jp/</link> 
+<language>ja</language> 
+<copyright>&#x2117; &amp; &#xA9; 2009 Nagoya Univ 東海ラジオ放送</copyright> 
+<itunes:subtitle></itunes:subtitle> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:summary>皆さんに、「私たちの将来はだいじょうぶか？」と尋ねたら、どう答えるでしょうか。
+内閣府が実施した世論調査（2008年6月）によりますと、日頃の生活の中で、悩みや不安を感じていると答えた人の割合は、70.8％にも達しています。とくに、40代、50代での不安が高いことがわかります。20年ほど前の1991年には、この値は50％以下でした。近年、国民の間で不安が高まっているといえます。
+たしかに、将来を心配させるような事件が続出しています。たとえば、農薬に汚染された輸入食材の問題、耐震偽造のような住への不安、サブプライム危機から始まる世界同時不況での職への不安、年金問題、新型インフルエンザの発生の可能性など、いくらでもあります。
+しかし、不安だ、心配だといっているだけでは、事態は好転しません。大恐慌に直面し、人々の不安が高まっているとき、アメリカの大統領フランクリン・ルーズベルトは、就任演説で「恐れるべきは恐れそのもの (Only thing we have to fear is fear itself)」と国民に訴えました。
+不安の原因を明らかにして、それへの最も有効で効率的な対応方法を考えていかなければなりません。よくよく知れば、「幽霊の正体見たり枯尾花」ということだってあるかもしれません。
+そこで、本年は、私たちが「だいじょうぶか」と思っているような様々な問題を選んで、名古屋大学の研究者が、問題の正体を明らかにし、その問題解決のための学問的な取り組みについて、分かりやすく講義します。言い換えると、安全・安心で持続可能な社会を実現するために、名古屋大学で取り組んでいる様々な分野の研究成果の紹介を目指します。
+これまでの科学の発達は、未知の病に対する特効薬の開発のように、私たちの不安の解消に成功してきました。大学で行われている研究は、将来の不安という暗闇を照らす灯りの役割をします。もちろん、残念ながら、多くの問題について即効薬が用意できているわけではありません。その場合でも、問題の所在を明らかにするだけでも、不安感はかなりおさまるはずです。そして、どうして解決していったらよいのかを考えることもできます。</itunes:summary>
+<itunes:owner> 
+<itunes:name>名古屋大学リレーセミナー　だいじょうぶか！安全・安心で持続可能な社会をめざして</itunes:name> 
+<itunes:email></itunes:email> 
+</itunes:owner> 
+<itunes:image href="http://ocw.nagoya-u.jp/podcast/logo_relay.jpg" />
+<itunes:category text="Education"> 
+<itunes:category text="Higher Education"/> 
+</itunes:category> 
+
+<item> 
+<title>第01回：世界の中の日本語</title> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>文学研究科 教授 町田健</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2009seminar01.mp3" length="35849448" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2009seminar01.mp3</guid> 
+<pubDate>Sun, 05 Jul 2009 06:30:00 +0900</pubDate>
+<itunes:duration>29:52</itunes:duration> 
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+
+<item> 
+<title>第02回：だいじょうぶか！ 公教育 －人間発達と社会の持続的発展の視点から－</title> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>教育発達科学研究科 教授 中嶋哲彦</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2009seminar02.mp3" length="36097611" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2009seminar02.mp3</guid> 
+<pubDate>Sun, 12 Jul 2009 06:30:00 +0900</pubDate>
+<itunes:duration>30:04</itunes:duration> 
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+
+<item> 
+<title>第03回：メディアの報道は信じられるか</title> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>国際言語文化研究科 教授 春名幹男</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2009seminar03.mp3" length="36334896" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2009seminar03.mp3</guid> 
+<pubDate>Sun, 19 Jul 2009 06:30:00 +0900</pubDate>
+<itunes:duration>30:16</itunes:duration> 
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+
+<item> 
+<title>第04回：食にまつわる心配事：安全と安定供給</title> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>生命農学研究科 教授 松田幹</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2009seminar04.mp3" length="36261769" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2009seminar04.mp3</guid> 
+<pubDate>Sun, 26 Jul 2009 06:30:00 +0900</pubDate>
+<itunes:duration>30:12</itunes:duration> 
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+
+<item> 
+<title>第05回：世界経済危機から東海経済が立ち直るために</title> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>経済学研究科 教授 家森信善</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2009seminar05.mp3" length="36175456" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2009seminar05.mp3</guid> 
+<pubDate>Sun, 02 Aug 2009 06:30:00 +0900</pubDate>
+<itunes:duration>30:08</itunes:duration> 
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+
+<item> 
+<title>第06回：こころの健康を維持する</title> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>発達心理精神科学教育研究センター 教授 本城秀次</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2009seminar06.mp3" length="36229905" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2009seminar06.mp3</guid> 
+<pubDate>Sun, 09 Aug 2009 06:30:00 +0900</pubDate>
+<itunes:duration>30:11</itunes:duration> 
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+
+<item> 
+<title>第07回：医療事故対応と医療安全管理</title> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>医学部附属病院 教授 上田裕一</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2009seminar07.mp3" length="36731342" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2009seminar07.mp3</guid> 
+<pubDate>Sun, 16 Aug 2009 06:30:00 +0900</pubDate>
+<itunes:duration>30:36</itunes:duration> 
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+
+<item> 
+<title>第08回：豊かに年をとっていくための知識：医療、栄養、運動</title> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>総合保健体育科学センター 准教授 小池晃彦</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2009seminar08.mp3" length="36270608" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2009seminar08.mp3</guid> 
+<pubDate>Sun, 23 Aug 2009 06:30:00 +0900</pubDate>
+<itunes:duration>30:13</itunes:duration> 
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+
+<item> 
+<title>第09回：東海地震を脅かす巨大地震災害の姿と減災の備え</title> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>災害対策室 准教授 飛田潤</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2009seminar09.mp3" length="36248143" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2009seminar09.mp3</guid> 
+<pubDate>Sun, 30 Aug 2009 06:30:00 +0900</pubDate>
+<itunes:duration>30:12</itunes:duration> 
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+
+<item> 
+<title>第10回：電気で安心!? 自動車の未来</title> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>工学研究科 准教授 道木慎二</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2009seminar10.mp3" length="36877105" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2009seminar10.mp3</guid> 
+<pubDate>Sun, 06 Sep 2009 06:30:00 +0900</pubDate>
+<itunes:duration>30:43</itunes:duration> 
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+
+</channel> 
+</rss>
