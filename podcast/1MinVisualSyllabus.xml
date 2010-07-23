@@ -1341,5 +1341,17 @@
 <itunes:keywords></itunes:keywords>
 </item>
 
+<item>
+<title>産業社会と企業</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>環境学研究科 教授 涌田幸宏</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20100723wakuta.mp4" length="9135221" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20100723wakuta.mp4</guid>
+<pubDate>Fri, 23 Jul 2010 09:30:00 +0900 </pubDate>
+<itunes:duration>0:03:16</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
 </channel>
 </rss>
