@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 
 <channel>
@@ -1281,6 +1281,7 @@
 <itunes:keywords></itunes:keywords>
 </item>
 
+
 <item>
 <title>先端文化思想論ab</title>
 <itunes:author>名古屋大学</itunes:author>
@@ -1288,10 +1289,11 @@
 <itunes:summary></itunes:summary>
 <enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20100608ochi.mp4" length="10815288" type="video/mp4" />
 <guid>http://ocw.nagoya-u.jp/podcast/ocw20100608ochi.mp4</guid>
-<pubDate>Tue, 8 Jun 2010 09:30:00 +0900 </pubDate>
+<pubDate>Tue, 08 Jun 2010 09:30:00 +0900 </pubDate>
 <itunes:duration>0:03:43</itunes:duration>
 <itunes:keywords></itunes:keywords>
 </item>
+
 
 <item>
 <title>異文化交流論</title>
@@ -1300,10 +1302,11 @@
 <itunes:summary></itunes:summary>
 <enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20100609wakui.mp4" length="2774910" type="video/mp4" />
 <guid>http://ocw.nagoya-u.jp/podcast/ocw20100609wakui.mp4</guid>
-<pubDate>Wed, 9 Jun 2010 09:30:00 +0900 </pubDate>
+<pubDate>Wed, 09 Jun 2010 09:30:00 +0900 </pubDate>
 <itunes:duration>0:02:09</itunes:duration>
 <itunes:keywords></itunes:keywords>
 </item>
+
 
 <item>
 <title>開発経済統計学</title>
@@ -1317,17 +1320,19 @@
 <itunes:keywords></itunes:keywords>
 </item>
 
+
 <item>
 <title>生物学入門</title>
 <itunes:author>名古屋大学</itunes:author>
 <itunes:subtitle>情報科学研究科 准教授 青木摂之</itunes:subtitle>
 <itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw2010611aoki.mp4" length="2524740" type="video/mp4" />
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20100611aoki.mp4" length="2524740" type="video/mp4" />
 <guid>http://ocw.nagoya-u.jp/podcast/ocw20100611aoki.mp4</guid>
 <pubDate>Fri, 11 Jun 2010 09:30:00 +0900 </pubDate>
 <itunes:duration>0:00:53</itunes:duration>
 <itunes:keywords></itunes:keywords>
 </item>
+
 
 <item>
 <title>地球環境学2</title>
@@ -1341,6 +1346,7 @@
 <itunes:keywords></itunes:keywords>
 </item>
 
+
 <item>
 <title>産業社会と企業</title>
 <itunes:author>名古屋大学</itunes:author>
@@ -1352,6 +1358,59 @@
 <itunes:duration>0:03:16</itunes:duration>
 <itunes:keywords></itunes:keywords>
 </item>
+
+
+<item>
+<title>生物学各論</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>理学研究科 教授 東山哲也</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20100825higashiyama.mp4" length="2398978" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20100825higashiyama.mp4</guid>
+<pubDate>Wed, 25 Aug 2010 09:30:00 +0900 </pubDate>
+<itunes:duration>0:00:56</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
+<item>
+<title>物理環境設計学</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>環境学研究科 教授 奥宮正哉</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20100825okumiya.mp4" length="4139870" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20100825okumiya.mp4</guid>
+<pubDate>Wed, 25 Aug 2010 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:37</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
+<item>
+<title>人間形成学講義III</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>教育発達科学研究科 教授 松下晴彦</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20100825matsushita.mp4" length="2447640" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20100825matsushita.mp4</guid>
+<pubDate>Wed, 25 Aug 2010 09:30:00 +0900 </pubDate>
+<itunes:duration>0:00:51</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
+<item>
+<title>地球環境学</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>環境学研究科 准教授 高野雅夫</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20100825takano.mp4" length="3132567" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20100825takano.mp4</guid>
+<pubDate>Wed, 25 Aug 2010 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:05</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
 
 </channel>
 </rss>
