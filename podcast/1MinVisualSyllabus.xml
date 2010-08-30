@@ -1412,5 +1412,18 @@
 </item>
 
 
+<item>
+<title>環境政策論</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>環境学研究科 教授 竹内恒夫</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20100830takeuchi.mp4" length="10896924" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20100830takeuchi.mp4</guid>
+<pubDate>Mon, 30 Aug 2010 09:30:00 +0900 </pubDate>
+<itunes:duration>0:03:56</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
 </channel>
 </rss>
