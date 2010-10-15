@@ -1424,6 +1424,43 @@
 <itunes:keywords></itunes:keywords>
 </item>
 
+<item>
+<title>今後の核融合研究への期待</title>
+<itunes:author>自然科学研究機構</itunes:author>
+<itunes:subtitle>核融合科学研究所 教授 本島修</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20101015motojima.mp4" length="4489908" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20101015motojima.mp4</guid>
+<pubDate>Fri, 15 Oct 2010 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:46</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
+<item>
+<title>植物で明るい未来を</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>生命農学研究科 教授 高倍鉄子</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20101015takabe.mp4" length="7059581" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20101015takabe.mp4</guid>
+<pubDate>Fri, 15 Oct 2010 09:30:00 +0900 </pubDate>
+<itunes:duration>0:02:29</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
+<item>
+<title>学校臨床社会学の構想</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>教育発達科学研究科 教授 今津孝次郎</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20101015imazu.mp4" length="4101140" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20101015imazu.mp4</guid>
+<pubDate>Fri, 15 Oct 2010 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:36</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
 
 </channel>
 </rss>
