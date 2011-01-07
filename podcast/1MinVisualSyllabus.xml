@@ -1424,6 +1424,7 @@
 <itunes:keywords></itunes:keywords>
 </item>
 
+
 <item>
 <title>今後の核融合研究への期待</title>
 <itunes:author>自然科学研究機構</itunes:author>
@@ -1461,6 +1462,98 @@
 <itunes:duration>0:01:36</itunes:duration>
 <itunes:keywords></itunes:keywords>
 </item>
+
+
+<item>
+<title>統計解析</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>経済学研究科 教授 根本二郎</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20110107nemoto.mp4" length="3856281" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20110107nemoto.mp4</guid>
+<pubDate>Fri, 07 Jan 2011 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:20</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
+<item>
+<title>私の食糧生産管理学：研究・教育・普及</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>生命農学研究科 教授 竹谷裕之</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20110107takeya.mp4" length="4561913" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20110107takeya.mp4</guid>
+<pubDate>Fri, 07 Jan 2011 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:47</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
+<item>
+<title>花色の遺伝から植物組織培養まで</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>生命農学研究科 教授 服部一三</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20110107hattori.mp4" length="2530017" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20110107hattori.mp4</guid>
+<pubDate>Fri, 07 Jan 2011 09:30:00 +0900 </pubDate>
+<itunes:duration>0:00:59</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
+<item>
+<title>パターン認識及び演習</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>情報科学研究科 教授 石井健一郎</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20110107ishii-k.mp4" length="5837492" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20110107ishii-k.mp4</guid>
+<pubDate>Fri, 07 Jan 2011 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:39</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
+<item>
+<title>心理行動科学実験演習3（検査・測定法）</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>教育発達科学研究科 准教授 永田雅子 </itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20110107nagata.mp4" length="3284605" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20110107nagata.mp4</guid>
+<pubDate>Fri, 07 Jan 2011 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:12</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
+<item>
+<title>ロベルト・ユンクの２０世紀</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>文学研究科 教授 若尾祐司</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20110107wakao.mp4" length="2408809" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20110107wakao.mp4</guid>
+<pubDate>Fri, 07 Jan 2011 09:30:00 +0900 </pubDate>
+<itunes:duration>0:00:57</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
+<item>
+<title>やったこと、やれなかったこと、やらなかったこと－対照言語学と言語教育－</title>
+<itunes:author>名古屋大学</itunes:author>
+<itunes:subtitle>国際言語文化研究科 教授 小坂 光一</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20110107kosaka.mp4" length="3387418" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20110107kosaka.mp4</guid>
+<pubDate>Fri, 07 Jan 2011 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:20</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
 
 </channel>
 </rss>
