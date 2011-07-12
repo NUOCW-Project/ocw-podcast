@@ -22,8 +22,8 @@
 
 <item>
 <title>Intermediate Japanese Listening Course</title>
-<itunes:author>Nagoya University</itunes:author>
-<itunes:subtitle>Toshiko ISHIZAKI, Associate Professor, Education Center for International Students</itunes:subtitle>
+<itunes:author>Toshiko ISHIZAKI, Associate Professor, Education Center for International Students</itunes:author>
+<itunes:subtitle></itunes:subtitle>
 <itunes:summary></itunes:summary>
 <enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20061025ishizaki_en_podcast.mp4" length="10062211" type="video/mp4" />
 <guid>http://ocw.nagoya-u.jp/podcast/ocw20061025ishizaki_en_podcast.mp4</guid>
@@ -35,8 +35,8 @@
 
 <item>
 <title>Algebraic Topology I</title>
-<itunes:author>Nagoya University</itunes:author>
-<itunes:subtitle>Lars Hesselholt, Professor, Graduate School of Mathematics</itunes:subtitle>
+<itunes:author>Lars Hesselholt, Professor, Graduate School of Mathematics</itunes:author>
+<itunes:subtitle></itunes:subtitle>
 <itunes:summary></itunes:summary>
 <enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20090731lars.mp4" length="4983313" type="video/mp4" />
 <guid>http://ocw.nagoya-u.jp/podcast/ocw20090731lars.mp4</guid>
@@ -48,8 +48,8 @@
 
 <item>
 <title>Media Discourse Analysis</title>
-<itunes:author>Nagoya University</itunes:author>
-<itunes:subtitle>Edward Haig,  Associate Professor, Graduate School of Languages and Cultures</itunes:subtitle>
+<itunes:author>Edward Haig, Associate Professor, Graduate School of Languages and Cultures</itunes:author>
+<itunes:subtitle></itunes:subtitle>
 <itunes:summary></itunes:summary>
 <enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20100517haig_en.mp4" length="6264928" type="video/mp4" />
 <guid>http://ocw.nagoya-u.jp/podcast/ocw20100517haig_en.mp4</guid>
@@ -61,13 +61,39 @@
 
 <item>
 <title>Welcome to Nagoya University OpenCourseWare</title>
-<itunes:author>Nagoya University</itunes:author>
-<itunes:subtitle>Ichiro YAMAMOTO, Chairperson, OpenCourseWare Committee</itunes:subtitle>
+<itunes:author>Ichiro YAMAMOTO, Chairperson, OpenCourseWare Committee</itunes:author>
+<itunes:subtitle></itunes:subtitle>
 <itunes:summary></itunes:summary>
 <enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20100525yamamoto_en.mp4" length="13719454" type="video/mp4" />
 <guid>http://ocw.nagoya-u.jp/podcast/ocw20100525yamamoto_en.mp4</guid>
 <pubDate>Tue, 25 May 2010 09:30:00 +0900 </pubDate>
 <itunes:duration>0:04:47</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
+<item>
+<title>Development Finance</title>
+<itunes:author>Naoko SHINKAI, Associate Professor, Graduate School of International Development</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20110712shinkai_en.mp4" length="2651378" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20110712shinkai_en.mp4</guid>
+<pubDate>Tue, 12 Jul 2011 09:30:00 +0900 </pubDate>
+<itunes:duration>0:00:43</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
+<item>
+<title>Media English</title>
+<itunes:author>Edward Haig, Associate Professor, Graduate School of Languages and Cultures</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20110712haig.mp4" length="15342819" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20110712haig.mp4</guid>
+<pubDate>Tue, 12 Jul 2011 09:30:00 +0900 </pubDate>
+<itunes:duration>0:04:23</itunes:duration>
 <itunes:keywords></itunes:keywords>
 </item>
 
