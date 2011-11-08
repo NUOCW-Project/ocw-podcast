@@ -1959,5 +1959,31 @@
 </item>
 
 
+<item>
+<title>生き暮れて30有余年</title>
+<itunes:author>情報科学研究科 教授 森敏彦</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20111108mori.mp4" length="3813341" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20111108mori.mp4</guid>
+<pubDate>Tue, 08 Nov 2011 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:08</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
+<item>
+<title>強相関電子系の光物性―ラマン散乱に魅せられて</title>
+<itunes:author>理学研究科 教授 水貝俊治</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20111108sugai.mp4" length="8699459" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20111108sugai.mp4</guid>
+<pubDate>Tue, 08 Nov 2011 09:30:00 +0900 </pubDate>
+<itunes:duration>0:02:28</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
 </channel>
 </rss>
