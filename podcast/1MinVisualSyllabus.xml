@@ -1985,5 +1985,31 @@
 </item>
 
 
+<item>
+<title>英語（コミュニケーション）</title>
+<itunes:author>国際言語文化研究科 教授 尾関修治</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20111227ozeki.mp4" length="15178427" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20111227ozeki.mp4</guid>
+<pubDate>Tue, 27 Dec 2011 09:30:00 +0900 </pubDate>
+<itunes:duration>0:04:16</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
+<item>
+<title>多元比較表象論ab</title>
+<itunes:author>国際言語文化研究科 教授 鈴木繁夫</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20111227suzuki.mp4" length="29037664" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20111227suzuki.mp4</guid>
+<pubDate>Tue, 27 Dec 2011 09:30:00 +0900 </pubDate>
+<itunes:duration>0:08:10</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
 </channel>
 </rss>
