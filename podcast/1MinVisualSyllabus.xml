@@ -2011,5 +2011,57 @@
 </item>
 
 
+<item>
+<title>動物生理学2</title>
+<itunes:author>生命農学研究科 准教授 束村博子</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20120131tsukamura.mp4" length="7557858" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20120131tsukamura.mp4</guid>
+<pubDate>Tue, 31 Jan 2012 09:30:00 +0900 </pubDate>
+<itunes:duration>0:02:07</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
+<item>
+<title>核医学診断技術学 I</title>
+<itunes:author>医学部 教授 加藤克彦 </itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20120131kato.mp4" length="7088075" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20120131kato.mp4</guid>
+<pubDate>Tue, 31 Jan 2012 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:59</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
+<item>
+<title>統計物理学III</title>
+<itunes:author>理学研究科 教授 上羽牧夫</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20120131uwaha.mp4" length="5435963" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20120131uwaha.mp4</guid>
+<pubDate>Tue, 31 Jan 2012 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:31</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
+<item>
+<title>現代中国語表現論ab</title>
+<itunes:author>国際言語文化研究科 准教授 丸尾誠</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20120131maruo.mp4" length="4963025" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20120131maruo.mp4</guid>
+<pubDate>Tue, 31 Jan 2012 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:25</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
 </channel>
 </rss>
