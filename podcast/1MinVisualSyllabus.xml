@@ -2063,5 +2063,31 @@
 </item>
 
 
+<item>
+<title>電磁気学 I</title>
+<itunes:author>工学研究科 教授 天野浩</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20120313amano.mp4" length="5213741" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20120313amano.mp4</guid>
+<pubDate>Tue, 13 Mar 2012 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:34</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
+<item>
+<title>第二言語習得研究概論a：第二言語習得研究の理解</title>
+<itunes:author>国際言語文化研究科 准教授 稲垣俊史 </itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20120313inagaki.mp4" length="17999851" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20120313inagaki.mp4</guid>
+<pubDate>Tue, 13 Mar 2012 09:30:00 +0900 </pubDate>
+<itunes:duration>0:05:01</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
 </channel>
 </rss>
