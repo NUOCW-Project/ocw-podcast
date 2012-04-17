@@ -2115,5 +2115,31 @@
 </item>
 
 
+<item>
+<title>放射線計測学</title>
+<itunes:author>工学研究科 教授 井口哲夫</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20120417iguchi.mp4" length="19252547" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20120417iguchi.mp4</guid>
+<pubDate>Tue, 17 Apr 2012 09:30:00 +0900 </pubDate>
+<itunes:duration>0:05:13</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
+<item>
+<title>Gaussの和を計算してみよう</title>
+<itunes:author>多元数理科学研究科 准教授 鈴木浩志</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20120417suzuki.mp4" length="2063477" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20120417suzuki.mp4</guid>
+<pubDate>Tue, 17 Apr 2012 09:30:00 +0900 </pubDate>
+<itunes:duration>0:00:34</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
 </channel>
 </rss>
