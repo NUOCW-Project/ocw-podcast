@@ -2180,5 +2180,31 @@
 </item>
 
 
+<item>
+<title>地球環境変動論（温暖化概論）</title>
+<itunes:author>環境学研究科 教授 甲斐憲次</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20121107kai.mp4" length="5216073" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20121107kai.mp4</guid>
+<pubDate>Wed, 07 Nov 2012 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:28</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
+<item>
+<title>宇宙天気研究をふり返って</title>
+<itunes:author>太陽地球環境研究所 教授 菊池崇</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20121107kikuchi.mp4" length="9352604" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20121107kikuchi.mp4</guid>
+<pubDate>Wed, 07 Nov 2012 09:30:00 +0900 </pubDate>
+<itunes:duration>0:02:40</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
 </channel>
 </rss>
