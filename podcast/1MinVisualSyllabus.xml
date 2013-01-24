@@ -2297,5 +2297,18 @@
 </item>
 
 
+<item>
+<title>企業の研究、大学の教育</title>
+<itunes:author>情報科学研究科 教授 石井健一郎</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20130124ishii.mp4" length="4856615" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20130124ishii.mp4</guid>
+<pubDate>Thu, 24 Jan 2013 09:30:00 +0900 </pubDate>
+<itunes:duration>0:01:23</itunes:duration>
+<itunes:keywords></itunes:keywords>
+</item>
+
+
 </channel>
 </rss>
