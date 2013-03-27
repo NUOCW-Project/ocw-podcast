@@ -19,46 +19,6 @@
 <itunes:category text="Higher Education"/>
 </itunes:category>
 
-
-<item>
-<title>Intermediate Japanese Listening Course</title>
-<itunes:author>Toshiko ISHIZAKI, Associate Professor, Education Center for International Students</itunes:author>
-<itunes:subtitle></itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20061025ishizaki_en_podcast.mp4" length="10062211" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20061025ishizaki_en_podcast.mp4</guid>
-<pubDate>Wed, 25 Oct 2006 09:30:00 +0900 </pubDate>
-<itunes:duration>0:01:28</itunes:duration>
-<itunes:keywords>Intermediate Japanese Listening Course 　Nagoya-Univ nagoya University OpenCourseWare</itunes:keywords>
-</item>
-
-
-<item>
-<title>Algebraic Topology I</title>
-<itunes:author>Lars Hesselholt, Professor, Graduate School of Mathematics</itunes:author>
-<itunes:subtitle></itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20090731lars.mp4" length="4983313" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20090731lars.mp4</guid>
-<pubDate>Fri, 31 Jul 2009 09:30:00 +0900 </pubDate>
-<itunes:duration>0:01:56</itunes:duration>
-<itunes:keywords></itunes:keywords>
-</item>
-
-
-<item>
-<title>Media Discourse Analysis</title>
-<itunes:author>Edward Haig, Associate Professor, Graduate School of Languages and Cultures</itunes:author>
-<itunes:subtitle></itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20100517haig_en.mp4" length="6264928" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20100517haig_en.mp4</guid>
-<pubDate>Mon, 17 May 2010 09:30:00 +0900 </pubDate>
-<itunes:duration>0:02:14</itunes:duration>
-<itunes:keywords></itunes:keywords>
-</item>
-
-
 <item>
 <title>Welcome to Nagoya University OpenCourseWare</title>
 <itunes:author>Ichiro YAMAMOTO, Chairperson, OpenCourseWare Committee</itunes:author>
@@ -71,44 +31,83 @@
 <itunes:keywords></itunes:keywords>
 </item>
 
+<item>
+<title>Intermediate Japanese Listening Course</title>
+<itunes:author>Toshiko ISHIZAKI, Associate Professor</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20061025ishizaki_en_podcast.mp4" length="10062211" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20061025ishizaki_en_podcast.mp4</guid>
+<pubDate>Wed, 25 Oct 2006 09:30:00 +0900 </pubDate>
+<itunes:duration>00:01:28</itunes:duration>
+<itunes:keywords>Intermediate Japanese Listening Course Nagoya University NUOCW OCW ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>Media Discourse Analysis</title>
+<itunes:author>Edward HAIG, Associate Professor</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20100517haig_en.mp4" length="6264928" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20100517haig_en.mp4</guid>
+<pubDate>Mon, 17 May 2010 09:30:00 +0900 </pubDate>
+<itunes:duration>00:02:14</itunes:duration>
+<itunes:keywords>Edward Haig (Media Discourse Analysis) Nagoya University NUOCW OCW ocw</itunes:keywords>
+</item>
+
+
+<item>
+<title>Algebraic Topology I</title>
+<itunes:author>Lars HESSELHOLT, Professor</itunes:author>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary></itunes:summary>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20090731lars.mp4" length="4983313" type="video/mp4" />
+<guid>http://ocw.nagoya-u.jp/podcast/ocw20090731lars.mp4</guid>
+<pubDate>Fri, 31 Jul 2009 09:30:00 +0900 </pubDate>
+<itunes:duration>00:01:57</itunes:duration>
+<itunes:keywords>algebraic topology homotopy K theory model category Nagoya University NUOCW OCW ocw</itunes:keywords>
+</item>
+
 
 <item>
 <title>Development Finance</title>
-<itunes:author>Naoko SHINKAI, Associate Professor, Graduate School of International Development</itunes:author>
+<itunes:author>Naoko SHINKAI, Associate Professor</itunes:author>
 <itunes:subtitle></itunes:subtitle>
 <itunes:summary></itunes:summary>
 <enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20110712shinkai_en.mp4" length="2651378" type="video/mp4" />
 <guid>http://ocw.nagoya-u.jp/podcast/ocw20110712shinkai_en.mp4</guid>
 <pubDate>Tue, 12 Jul 2011 09:30:00 +0900 </pubDate>
-<itunes:duration>0:00:43</itunes:duration>
-<itunes:keywords></itunes:keywords>
+<itunes:duration>00:00:43</itunes:duration>
+<itunes:keywords> Nagoya University NUOCW OCW ocw</itunes:keywords>
 </item>
 
 
 <item>
 <title>Media English</title>
-<itunes:author>Edward Haig, Associate Professor, Graduate School of Languages and Cultures</itunes:author>
+<itunes:author>Edward HAIG, Associate Professor</itunes:author>
 <itunes:subtitle></itunes:subtitle>
 <itunes:summary></itunes:summary>
 <enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20110712haig.mp4" length="15342819" type="video/mp4" />
 <guid>http://ocw.nagoya-u.jp/podcast/ocw20110712haig.mp4</guid>
 <pubDate>Tue, 12 Jul 2011 09:30:00 +0900 </pubDate>
-<itunes:duration>0:04:23</itunes:duration>
-<itunes:keywords></itunes:keywords>
+<itunes:duration>00:04:23</itunes:duration>
+<itunes:keywords>メディア英語、エドワード・ヘイグ、国際言語文化研究科、メディアプロフェッショナルコース Nagoya University NUOCW OCW ocw</itunes:keywords>
 </item>
 
 
 <item>
 <title>Principle of Life Science 2</title>
-<itunes:author>Seiji KOJIMA, Lecturer, Graduate School of Science</itunes:author>
+<itunes:author>Seiji KOJIMA, Lecturer</itunes:author>
 <itunes:subtitle></itunes:subtitle>
 <itunes:summary></itunes:summary>
 <enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20121214kojima.mp4" length="5529249" type="video/mp4" />
 <guid>http://ocw.nagoya-u.jp/podcast/ocw20121214kojima.mp4</guid>
 <pubDate>Fri, 14 Dec 2012 09:30:00 +0900 </pubDate>
-<itunes:duration>0:01:34</itunes:duration>
-<itunes:keywords></itunes:keywords>
+<itunes:duration>00:01:34</itunes:duration>
+<itunes:keywords>小嶋誠司 Principle of Life Science2 Nagoya University NUOCW OCW ocw</itunes:keywords>
 </item>
+
 
 
 </channel>
