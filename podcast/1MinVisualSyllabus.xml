@@ -97,19 +97,6 @@
 
 
 <item>
-<title>情報と法</title>
-<itunes:author>大屋雄裕 准教授</itunes:author>
-<itunes:subtitle></itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050826ohya_podcast.mp4" length="6444349" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20050826ohya_podcast.mp4</guid>
-<pubDate>Fri, 26 Aug 2005 09:30:00 +0900 </pubDate>
-<itunes:duration>00:00:56</itunes:duration>
-<itunes:keywords>情報と法 情報 法 名古屋大学 名大 名大の授業 1分間授業紹介 OCW ocw</itunes:keywords>
-</item>
-
-
-<item>
 <title>基礎セミナー - 図書館情報リテラシー: 図書館と情報を使いこなす</title>
 <itunes:author>逸村裕 准教授</itunes:author>
 <itunes:subtitle></itunes:subtitle>
@@ -163,7 +150,7 @@
 
 <item>
 <title>英語（リーディング）4</title>
-<itunes:author>山下淳子 准教授</itunes:author>
+<itunes:author>山下淳子 教授</itunes:author>
 <itunes:subtitle></itunes:subtitle>
 <itunes:summary></itunes:summary>
 <enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050809yamashita02_podcast.mp4" length="14304209" type="video/mp4" />
@@ -201,8 +188,8 @@
 
 
 <item>
-<title>全学教養科目 - 留学生と日本〜異文化を通しての日本理解〜</title>
-<itunes:author>浮葉正親 准教授</itunes:author>
+<title>留学生と日本〜異文化を通しての日本理解〜</title>
+<itunes:author>浮葉正親 教授</itunes:author>
 <itunes:subtitle></itunes:subtitle>
 <itunes:summary></itunes:summary>
 <enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20060809ukiba_podcast.mp4" length="6646894" type="video/mp4" />
@@ -254,7 +241,7 @@
 
 <item>
 <title>資源植物環境学</title>
-<itunes:author>谷口光隆 准教授</itunes:author>
+<itunes:author>谷口光隆 教授</itunes:author>
 <itunes:subtitle></itunes:subtitle>
 <itunes:summary></itunes:summary>
 <enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20051116taniguchi1_podcast.mp4" length="8875530" type="video/mp4" />
@@ -306,7 +293,7 @@
 
 <item>
 <title>経済理論 I </title>
-<itunes:author>柳原光芳 准教授</itunes:author>
+<itunes:author>柳原光芳 教授</itunes:author>
 <itunes:subtitle></itunes:subtitle>
 <itunes:summary></itunes:summary>
 <enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050825yangihara4_podcast.mp4" length="7917423" type="video/mp4" />
@@ -332,7 +319,7 @@
 
 <item>
 <title>法学</title>
-<itunes:author>岡本裕樹 准教授</itunes:author>
+<itunes:author>岡本裕樹 教授</itunes:author>
 <itunes:subtitle></itunes:subtitle>
 <itunes:summary></itunes:summary>
 <enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20050901okamoto_podcast.mp4" length="7771769" type="video/mp4" />
@@ -344,7 +331,7 @@
 
 
 <item>
-<title>教育方法学講義 II ―授業分析と教育の科学化―</title>
+<title>教育方法学講義 II —授業分析と教育の科学化—</title>
 <itunes:author>的場正美 教授 / 柴田好章 准教授</itunes:author>
 <itunes:subtitle></itunes:subtitle>
 <itunes:summary></itunes:summary>
@@ -352,7 +339,7 @@
 <guid>http://ocw.nagoya-u.jp/podcast/ocw20051215matoba_shibata_podcast.mp4</guid>
 <pubDate>Thu, 15 Dec 2005 09:30:00 +0900 </pubDate>
 <itunes:duration>00:00:44</itunes:duration>
-<itunes:keywords>教育方法学講義II―授業分析と教育の科学化 教育方法 授業分析 教育 科学化 名古屋大学 名大 名大の授業 1分間授業紹介 OCW ocw</itunes:keywords>
+<itunes:keywords>教育方法学講義II—授業分析と教育の科学化 教育方法 授業分析 教育 科学化 名古屋大学 名大 名大の授業 1分間授業紹介 OCW ocw</itunes:keywords>
 </item>
 
 
@@ -422,7 +409,7 @@
 
 
 <item>
-<title>ポスト・ローマ期ヨーロッパの表象構造―コミュニケーション行為の歴史的考察(1)―</title>
+<title>ポスト・ローマ期ヨーロッパの表象構造—コミュニケーション行為の歴史的考察(1)—</title>
 <itunes:author>佐藤彰一 教授</itunes:author>
 <itunes:subtitle></itunes:subtitle>
 <itunes:summary></itunes:summary>
@@ -462,7 +449,7 @@
 
 <item>
 <title>基礎セミナー - 自然をみつめ，考える</title>
-<itunes:author>小橋眞 准教授</itunes:author>
+<itunes:author>小橋眞 教授</itunes:author>
 <itunes:subtitle></itunes:subtitle>
 <itunes:summary></itunes:summary>
 <enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20060808kobashi.mp4" length="7243584" type="video/mp4" />
@@ -552,7 +539,7 @@
 
 
 <item>
-<title>応用行動学講義 II ―産業・組織の心理学―</title>
+<title>応用行動学講義 II —産業・組織の心理学—</title>
 <itunes:author>金井篤子 教授</itunes:author>
 <itunes:subtitle></itunes:subtitle>
 <itunes:summary></itunes:summary>
@@ -657,7 +644,7 @@
 
 <item>
 <title>メディアディスコース分析論</title>
-<itunes:author>ヘイグ・エドワード 准教授</itunes:author>
+<itunes:author>ヘイグ・エドワード 教授</itunes:author>
 <itunes:subtitle></itunes:subtitle>
 <itunes:summary></itunes:summary>
 <enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20100517haig_ja.mp4" length="9243560" type="video/mp4" />
@@ -683,7 +670,7 @@
 
 <item>
 <title>B. エコロジーな発電装置を作ろう！ </title>
-<itunes:author>一野祐亮 助教</itunes:author>
+<itunes:author>一野祐亮 准教授</itunes:author>
 <itunes:subtitle></itunes:subtitle>
 <itunes:summary></itunes:summary>
 <enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20090209tefs_b_podcast.mp4" length="3059494" type="video/mp4" />
@@ -839,7 +826,7 @@
 
 <item>
 <title>微生物学3</title>
-<itunes:author>饗場浩文 准教授</itunes:author>
+<itunes:author>饗場浩文 教授</itunes:author>
 <itunes:subtitle></itunes:subtitle>
 <itunes:summary></itunes:summary>
 <enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20090731aiba.mp4" length="5357103" type="video/mp4" />
@@ -1021,7 +1008,7 @@
 
 <item>
 <title>現代数学への流れ</title>
-<itunes:author>中西知樹 准教授</itunes:author>
+<itunes:author>中西知樹 教授</itunes:author>
 <itunes:subtitle></itunes:subtitle>
 <itunes:summary></itunes:summary>
 <enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20090821nakanishi.mp4" length="2836208" type="video/mp4" />
@@ -1047,7 +1034,7 @@
 
 <item>
 <title>メディアアート論</title>
-<itunes:author>茂登山清文 准教授</itunes:author>
+<itunes:author>茂登山清文 教授</itunes:author>
 <itunes:subtitle></itunes:subtitle>
 <itunes:summary></itunes:summary>
 <enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20090731motoyama.mp4" length="2739543" type="video/mp4" />
@@ -1111,7 +1098,7 @@
 
 
 <item>
-<title>教育方法学講義 I ―教育方法概論―</title>
+<title>教育方法学講義 I —教育方法概論—</title>
 <itunes:author>柴田好章 准教授</itunes:author>
 <itunes:subtitle></itunes:subtitle>
 <itunes:summary></itunes:summary>
@@ -1423,19 +1410,6 @@
 
 
 <item>
-<title>心理学 II</title>
-<itunes:author>松本真理子 教授</itunes:author>
-<itunes:subtitle></itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20100517matsumoto.mp4" length="4817067" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20100517matsumoto.mp4</guid>
-<pubDate>Mon, 17 May 2010 09:30:00 +0900 </pubDate>
-<itunes:duration>00:01:44</itunes:duration>
-<itunes:keywords>臨床心理学 心 子ども メンタルヘルス 名古屋大学 名大 名大の授業 1分間授業紹介 OCW ocw</itunes:keywords>
-</item>
-
-
-<item>
 <title>信号伝送検出理論特論</title>
 <itunes:author>山里敬也 教授</itunes:author>
 <itunes:subtitle></itunes:subtitle>
@@ -1502,7 +1476,7 @@
 
 <item>
 <title>地球環境学</title>
-<itunes:author>高野雅夫 准教授</itunes:author>
+<itunes:author>高野雅夫 教授</itunes:author>
 <itunes:subtitle></itunes:subtitle>
 <itunes:summary></itunes:summary>
 <enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20100825takano.mp4" length="3132567" type="video/mp4" />
@@ -1561,7 +1535,7 @@
 <guid>http://ocw.nagoya-u.jp/podcast/ocw20100825matsushita.mp4</guid>
 <pubDate>Wed, 25 Aug 2010 09:30:00 +0900 </pubDate>
 <itunes:duration>00:00:51</itunes:duration>
-<itunes:keywords>松下晴彦 人間形成学講義? 教育学部 教授 １分間授業紹介 名古屋大学 名大 名大の授業 1分間授業紹介 OCW ocw</itunes:keywords>
+<itunes:keywords>松下晴彦 人間形成学講義 教育学部 教授 １分間授業紹介 名古屋大学 名大 名大の授業 1分間授業紹介 OCW ocw</itunes:keywords>
 </item>
 
 
@@ -1592,7 +1566,7 @@
 
 
 <item>
-<title>最終講義 - 強相関電子系の光物性―ラマン散乱に魅せられて</title>
+<title>最終講義 - 強相関電子系の光物性—ラマン散乱に魅せられて</title>
 <itunes:author>水貝俊治 教授</itunes:author>
 <itunes:subtitle></itunes:subtitle>
 <itunes:summary></itunes:summary>
@@ -1600,7 +1574,7 @@
 <guid>http://ocw.nagoya-u.jp/podcast/ocw20111108sugai.mp4</guid>
 <pubDate>Tue, 08 Nov 2011 09:30:00 +0900 </pubDate>
 <itunes:duration>00:02:28</itunes:duration>
-<itunes:keywords>水貝俊治先生 最終講義 インタビュービデオ 強相関電子系の光物性―ラマン散乱に魅せられて 名古屋大学 名大 名大の授業 1分間授業紹介 OCW ocw</itunes:keywords>
+<itunes:keywords>水貝俊治先生 最終講義 インタビュービデオ 強相関電子系の光物性—ラマン散乱に魅せられて 名古屋大学 名大 名大の授業 1分間授業紹介 OCW ocw</itunes:keywords>
 </item>
 
 
@@ -1748,19 +1722,6 @@
 
 
 <item>
-<title>ビジネス日本語 II</title>
-<itunes:author>初鹿野阿れ 准教授</itunes:author>
-<itunes:subtitle></itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20110823hajikano.mp4" length="5592323" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20110823hajikano.mp4</guid>
-<pubDate>Tue, 23 Aug 2011 09:30:00 +0900 </pubDate>
-<itunes:duration>00:01:35</itunes:duration>
-<itunes:keywords>初鹿野、ビジネス日本語、留学生センター 名古屋大学 名大 名大の授業 1分間授業紹介 OCW ocw</itunes:keywords>
-</item>
-
-
-<item>
 <title>パターン認識及び演習</title>
 <itunes:author>石井健一郎 教授</itunes:author>
 <itunes:subtitle></itunes:subtitle>
@@ -1852,7 +1813,7 @@
 
 
 <item>
-<title>言語文化学方法論a：表象の領域―普遍的イメージの成立を巡って</title>
+<title>言語文化学方法論a：表象の領域—普遍的イメージの成立を巡って</title>
 <itunes:author>福田眞人 教授</itunes:author>
 <itunes:subtitle></itunes:subtitle>
 <itunes:summary></itunes:summary>
@@ -1891,7 +1852,7 @@
 
 
 <item>
-<title>古代手工業生産史の考古学的研究―国分寺瓦を題材として―</title>
+<title>古代手工業生産史の考古学的研究—国分寺瓦を題材として—</title>
 <itunes:author>梶原義実 准教授</itunes:author>
 <itunes:subtitle></itunes:subtitle>
 <itunes:summary></itunes:summary>
@@ -1931,12 +1892,12 @@
 
 <item>
 <title>メディア英語</title>
-<itunes:author>ヘイグ・エドワード 准教授</itunes:author>
+<itunes:author>ヘイグ・エドワード 教授</itunes:author>
 <itunes:subtitle></itunes:subtitle>
 <itunes:summary></itunes:summary>
 <enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20110712haig.mp4" length="15342819" type="video/mp4" />
 <guid>http://ocw.nagoya-u.jp/podcast/ocw20110712haig.mp4</guid>
-<pubDate>Tue, 12 Jul 2011 09:30:00 +0900 </pubDate>
+<pubDate>Mon, 07 Jul 2014 09:30:00 +0900 </pubDate>
 <itunes:duration>00:04:23</itunes:duration>
 <itunes:keywords>メディア英語、エドワード・ヘイグ、国際言語文化研究科、メディアプロフェッショナルコース 名古屋大学 名大 名大の授業 1分間授業紹介 OCW ocw</itunes:keywords>
 </item>
@@ -2061,7 +2022,7 @@
 
 <item>
 <title>動物生理学2</title>
-<itunes:author>束村博子 准教授</itunes:author>
+<itunes:author>束村博子 教授</itunes:author>
 <itunes:subtitle></itunes:subtitle>
 <itunes:summary></itunes:summary>
 <enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20120131tsukamura.mp4" length="7557858" type="video/mp4" />
@@ -2255,19 +2216,6 @@
 
 
 <item>
-<title>基礎セミナー - ジェンダーを学ぶ</title>
-<itunes:author>窪田由紀 教授</itunes:author>
-<itunes:subtitle></itunes:subtitle>
-<itunes:summary></itunes:summary>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/ocw20121214kubota.mp4" length="6461071" type="video/mp4" />
-<guid>http://ocw.nagoya-u.jp/podcast/ocw20121214kubota.mp4</guid>
-<pubDate>Fri, 14 Dec 2012 09:30:00 +0900 </pubDate>
-<itunes:duration>00:01:50</itunes:duration>
-<itunes:keywords>窪田由紀 ジェンダーを学ぶ 名古屋大学 名大 名大の授業 1分間授業紹介 OCW ocw</itunes:keywords>
-</item>
-
-
-<item>
 <title>ドラマ研究概論b/国際多元文化演習b</title>
 <itunes:author>村主幸一 教授</itunes:author>
 <itunes:subtitle></itunes:subtitle>
@@ -2281,7 +2229,7 @@
 
 
 <item>
-<title>日中比較文化論ab―古代日本と外来文化</title>
+<title>日中比較文化論ab—古代日本と外来文化</title>
 <itunes:author>胡潔 教授</itunes:author>
 <itunes:subtitle></itunes:subtitle>
 <itunes:summary></itunes:summary>
