@@ -3,20 +3,31 @@
  
 <channel> 
 
-<title>名古屋大学リレーセミナー 夢見た今と夢見る未来</title>
+<title>名古屋大学リレーセミナー 危機に立ち向かう英知 ―解決への展望―</title>
 <link>http://ocw.nagoya-u.jp/</link> 
 <language>ja</language> 
-<copyright>&#x2117; &amp; &#xA9; 2011 Nagoya Univ 東海ラジオ放送</copyright> 
+<copyright>&#x2117; &amp; &#xA9; 2012 Nagoya Univ 東海ラジオ放送</copyright> 
 <itunes:subtitle></itunes:subtitle> 
 <itunes:author>名古屋大学</itunes:author> 
 <itunes:summary>
-20世紀に生まれ育った私たちにとって、21世紀は夢の世界でした。鉄腕アトムのようなロボット、宇宙旅行、スーパーカー、癌の撲滅などバラ色の世界を予想していました。実際、少し前には夢のように思われていたことが実現し、私たちの暮らしを大きく変えたものもあります。たとえば、小型の携帯電話で世界中に旅行しても電話ができるといったことは今では当たり前のことになりましたが、全国のどこへでも電話交換手を使わないで電話できるようになったのは、1979年のことでした。ごくわずかのうちに、社会は大きく変わりました。夢に向かっての科学者や技術者たちの努力が形になってきたわけです。 
-ただ、夢見たはずの21世紀に入ってすでに10年がたちましたが、日本はもちろん、世界各国も様々な問題に苦しんでいます。そのため、多くの人たちが将来への夢を失っているようです。たとえば、内閣府が実施している世論調査では、「将来の生活が良くなる」と楽観的な見方をしている人は、1970年ごろには40%近くだったのに、今や10%を切っています。逆に悲観的な見方をする人は、かつては10%以下だったのが、今は40%近くになっています。 
-しかし、悲観するだけでは、将来は切り開けません。20世紀の私たちがそうであったように、「夢を追いかける勇気があれば、すべての夢は実現できる」（ディズニーの創始者ウォルター・ディズニーの言葉）と信じて、夢を抱いて前に進んでいこうではありませんか。 
-そこで、今年度の公開講座では、20世紀が夢見ていたことが現在どの程度まで実現できたのかを振り返りながら、今、科学者は何を夢見て研究を進めているのか、そうした研究が未来をどのように切り開いていくのかなどについて、様々な分野の最先端で研究をしている名古屋大学の研究者に語っていただくことにしました。
+安心できる社会を構築しようと人類は努力をしてきました。
+しかし、2011年3月に発生した東日本大震災は、大地震や津波による未曾有の被害をもたらしました。
+さらに、原子力発電所の事故による放射能汚染は、現在も、社会に深刻な影響を与えています。
+こうした時に、市民の間で不安が高まるのは自然です。
+恐れるべきことには恐れた上で、きちんとした対応が必要です。
+その一方で、根拠のないデマに基づく過剰な反応が、社会の一層の混乱を招くことは避けなければなりません。
+震災直後から、名古屋大学をはじめ科学コミュニティは、様々な形で、正しい科学的知識を提供し、市民の皆さんと問題を共有するように努力してきました。
+
+東日本大震災や原発問題は、私たちの社会が抱えてきた様々な問題を顕在化させました。
+たとえば、大規模災害からの生活再建にどのような支援が必要なのか、次の大地震にどのように備えたら良いのか、これからの日本社会はエネルギーをどのようにまかなっていくのか、高齢化の進んでいる地域経済を再生することは可能なのか、復興のための財源をいかに確保するのか、被災者の心のケアをどう進めるべきなのか、など様々な問題の解決が必要です。
+一方で、困難に際しての被災者の団結や、日本中から集まったボランティアや支援といった日本社会の良さも感じられました。
+
+残念ながら、現在の科学者が持っている知識で、あらゆることに明確な展望を指し示せるわけではありません。
+しかし、名古屋大学の各研究者は、それぞれの分野でこうした危機に立ち向かうために、研究を続けています。
+本講座では、そうした研究活動の一端を市民の皆さんに知っていただき、さらには、直面している危機に共に立ち向かっていく機会にできればと考えています。
 </itunes:summary>
 <itunes:owner> 
-<itunes:name>名古屋大学リレーセミナー　夢見た今と夢見る未来</itunes:name> 
+<itunes:name>名古屋大学リレーセミナー 危機に立ち向かう英知 ―解決への展望―</itunes:name> 
 <itunes:email></itunes:email> 
 </itunes:owner> 
 <itunes:image href="http://ocw.nagoya-u.jp/podcast/logo_relay.jpg" />
@@ -25,141 +36,141 @@
 </itunes:category> 
 
 <item> 
-<title>第01回：生涯学習の過去・現在・未来</title> 
+<title>第01回：森林域における放射能汚染の現状と課題 ―植物を用いた除染の可能性―</title> 
 <itunes:author>名古屋大学</itunes:author> 
-<itunes:subtitle>教育発達科学研究科 教授 松田武雄</itunes:subtitle> 
+<itunes:subtitle>生命農学研究科 教授 竹中千里</itunes:subtitle> 
 <itunes:summary></itunes:summary> 
 <itunes:explicit>no</itunes:explicit>
-<enclosure url="http://ocw.nagoya-u.jp/podcast/2011seminar01.mp3" length="36591388" type="audio/mpeg" />
-<guid>http://ocw.nagoya-u.jp/podcast/2011seminar01.mp3</guid> 
-<pubDate>Sun, 03 Jul 2011 06:30:00 +0900</pubDate>
-<itunes:duration>30:29</itunes:duration> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2012seminar01.mp3" length="29158362" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2012seminar01.mp3</guid> 
+<pubDate>Sun, 01 Jul 2012 06:30:00 +0900</pubDate>
+<itunes:duration>30:22</itunes:duration> 
 <itunes:keywords>名古屋大学 名大</itunes:keywords> 
 </item>
 
 
 <item> 
-<title>第02回：コンピュータとの対話</title> 
+<title>第02回：耐震技術の進歩と課題</title> 
 <itunes:author>名古屋大学</itunes:author> 
-<itunes:subtitle>情報科学研究科 教授 武田一哉</itunes:subtitle> 
+<itunes:subtitle>減災連携研究センター 准教授 護雅史</itunes:subtitle> 
 <itunes:summary></itunes:summary> 
 <itunes:explicit>no</itunes:explicit> 
-<enclosure url="http://ocw.nagoya-u.jp/podcast/2011seminar02.mp3" length="37481132" type="audio/mpeg" />
-<guid>http://ocw.nagoya-u.jp/podcast/2011seminar02.mp3</guid> 
-<pubDate>Sun, 10 Jul 2011 06:30:00 +0900</pubDate>
-<itunes:duration>31:13</itunes:duration> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2012seminar02.mp3" length="29851833" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2012seminar02.mp3</guid> 
+<pubDate>Sun, 08 Jul 2012 06:30:00 +0900</pubDate>
+<itunes:duration>31:05</itunes:duration> 
 <itunes:keywords>名古屋大学 名大</itunes:keywords> 
 </item>
 
 
 <item> 
-<title>第03回：「人間は、なぜ、そう感じ、考え、行動するのか」—1ミリの動物から脳の不思議に挑戦</title>
+<title>第03回：日本語のわからない外国人など情報弱者への防災情報</title>
 <itunes:author>名古屋大学</itunes:author> 
-<itunes:subtitle>理学研究科 教授 森郁恵</itunes:subtitle> 
+<itunes:subtitle>情報科学研究科 教授 宮尾克</itunes:subtitle> 
 <itunes:summary></itunes:summary> 
 <itunes:explicit>no</itunes:explicit> 
-<enclosure url="http://ocw.nagoya-u.jp/podcast/2011seminar03.mp3" length="36593486" type="audio/mpeg" />
-<guid>http://ocw.nagoya-u.jp/podcast/2011seminar03.mp3</guid> 
-<pubDate>Sun, 17 Jul 2011 06:30:00 +0900</pubDate>
-<itunes:duration>30:29</itunes:duration> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2012seminar03.mp3" length="29168370" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2012seminar03.mp3</guid> 
+<pubDate>Sun, 15 Jul 2012 06:30:00 +0900</pubDate>
+<itunes:duration>30:22</itunes:duration> 
 <itunes:keywords>名古屋大学 名大</itunes:keywords> 
 </item>
 
 
 <item> 
-<title>第04回：グローバル時代の物流・ロジスティクス・サプライチェーン</title> 
+<title>第04回：救急・災害医療の現状と未来 &#x301C;救急医療安定化を目指した解決への展望&#x301C;</title> 
 <itunes:author>名古屋大学</itunes:author> 
-<itunes:subtitle>経済学研究科 教授 高桑宗右ヱ門</itunes:subtitle> 
+<itunes:subtitle>医学系研究科 教授 松田直之</itunes:subtitle> 
 <itunes:summary></itunes:summary> 
 <itunes:explicit>no</itunes:explicit> 
-<enclosure url="http://ocw.nagoya-u.jp/podcast/2011seminar04.mp3" length="36638347" type="audio/mpeg" />
-<guid>http://ocw.nagoya-u.jp/podcast/2011seminar04.mp3</guid> 
-<pubDate>Sun, 24 Jul 2011 06:30:00 +0900</pubDate>
-<itunes:duration>30:31</itunes:duration> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2012seminar04.mp3" length="29212989" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2012seminar04.mp3</guid> 
+<pubDate>Sun, 22 Jul 2012 06:30:00 +0900</pubDate>
+<itunes:duration>30:25</itunes:duration> 
 <itunes:keywords>名古屋大学 名大</itunes:keywords> 
 </item>
 
 
 <item> 
-<title>第05回：「時空の抜け道」ワームホールは実在するだろうか？</title> 
+<title>第05回：地震の予測とその現状</title> 
 <itunes:author>名古屋大学</itunes:author> 
-<itunes:subtitle>太陽地球環境研究所 准教授 阿部文雄</itunes:subtitle> 
+<itunes:subtitle>環境学研究科 教授 山岡耕春</itunes:subtitle> 
 <itunes:summary></itunes:summary> 
 <itunes:explicit>no</itunes:explicit> 
-<enclosure url="http://ocw.nagoya-u.jp/podcast/2011seminar05.mp3" length="36933088" type="audio/mpeg" />
-<guid>http://ocw.nagoya-u.jp/podcast/2011seminar05.mp3</guid> 
-<pubDate>Sun, 31 Jul 2011 06:30:00 +0900</pubDate>
-<itunes:duration>30:46</itunes:duration> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2012seminar05.mp3" length="29505306" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2012seminar05.mp3</guid> 
+<pubDate>Sun, 29 Jul 2012 06:30:00 +0900</pubDate>
+<itunes:duration>30:43</itunes:duration> 
 <itunes:keywords>名古屋大学 名大</itunes:keywords> 
 </item>
 
 
 <item> 
-<title>第06回：17～19世紀東アジアにおける漂流民</title> 
+<title>第06回：南海トラフ巨大地震・津波に備えて</title> 
 <itunes:author>名古屋大学</itunes:author> 
-<itunes:subtitle>文学研究科 教授 池内敏</itunes:subtitle> 
+<itunes:subtitle>工学研究科 准教授 川崎浩司</itunes:subtitle> 
 <itunes:summary></itunes:summary> 
 <itunes:explicit>no</itunes:explicit> 
-<enclosure url="http://ocw.nagoya-u.jp/podcast/2011seminar06.mp3" length="37259122" type="audio/mpeg" />
-<guid>http://ocw.nagoya-u.jp/podcast/2011seminar06.mp3</guid> 
-<pubDate>Sun, 7 Aug 2011 06:30:00 +0900</pubDate>
-<itunes:duration>31:02</itunes:duration> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2012seminar06.mp3" length="29876436" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2012seminar06.mp3</guid> 
+<pubDate>Sun, 05 Aug 2012 06:30:00 +0900</pubDate>
+<itunes:duration>31:07</itunes:duration> 
 <itunes:keywords>名古屋大学 名大</itunes:keywords> 
 </item>
 
 
 <item> 
-<title>第07回：夢の3Dテレビ</title> 
+<title>第07回：電力の供給体制と日本経済の進路</title> 
 <itunes:author>名古屋大学</itunes:author> 
-<itunes:subtitle>工学研究科 教授 谷本正幸</itunes:subtitle> 
+<itunes:subtitle>経済学研究科 教授 根本二郎</itunes:subtitle> 
 <itunes:summary></itunes:summary> 
 <itunes:explicit>no</itunes:explicit> 
-<enclosure url="http://ocw.nagoya-u.jp/podcast/2011seminar07.mp3" length="36910122" type="audio/mpeg" />
-<guid>http://ocw.nagoya-u.jp/podcast/2011seminar07.mp3</guid> 
-<pubDate>Sun, 14 Aug 2011 06:30:00 +0900</pubDate>
-<itunes:duration>30:45</itunes:duration> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2012seminar07.mp3" length="29963589" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2012seminar07.mp3</guid> 
+<pubDate>Sun, 12 Aug 2012 06:30:00 +0900</pubDate>
+<itunes:duration>31:12</itunes:duration> 
 <itunes:keywords>名古屋大学 名大</itunes:keywords> 
 </item>
 
 
 <item> 
-<title>第08回：がんを切らずに治す</title> 
+<title>第08回：濃尾震災と犠牲者追悼</title> 
 <itunes:author>名古屋大学</itunes:author> 
-<itunes:subtitle>医学系研究科 教授 直江知樹</itunes:subtitle> 
+<itunes:subtitle>文学研究科 教授 羽賀祥二</itunes:subtitle> 
 <itunes:summary></itunes:summary> 
 <itunes:explicit>no</itunes:explicit> 
-<enclosure url="http://ocw.nagoya-u.jp/podcast/2011seminar08.mp3" length="36963398" type="audio/mpeg" />
-<guid>http://ocw.nagoya-u.jp/podcast/2011seminar08.mp3</guid> 
-<pubDate>Sun, 21 Aug 2011 06:30:00 +0900</pubDate>
-<itunes:duration>30:48</itunes:duration> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2012seminar08.mp3" length="29036181" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2012seminar08.mp3</guid> 
+<pubDate>Sun, 19 Aug 2012 06:30:00 +0900</pubDate>
+<itunes:duration>30:14</itunes:duration> 
 <itunes:keywords>名古屋大学 名大</itunes:keywords> 
 </item>
 
 
 <item> 
-<title>第09回：大地震の発生予測を目指して</title> 
+<title>第09回：リスクについて考える：千年に一度とは</title> 
 <itunes:author>名古屋大学</itunes:author> 
-<itunes:subtitle>環境学研究科 教授 鷺谷威</itunes:subtitle> 
+<itunes:subtitle> 多元数理科学研究科 教授 大平徹</itunes:subtitle> 
 <itunes:summary></itunes:summary> 
 <itunes:explicit>no</itunes:explicit> 
-<enclosure url="http://ocw.nagoya-u.jp/podcast/2011seminar09.mp3" length="36663412" type="audio/mpeg" />
-<guid>http://ocw.nagoya-u.jp/podcast/2011seminar09.mp3</guid> 
-<pubDate>Sun, 28 Aug 2011 06:30:00 +0900</pubDate>
-<itunes:duration>30:33</itunes:duration> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2012seminar09.mp3" length="29284713" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2012seminar09.mp3</guid> 
+<pubDate>Sun, 26 Aug 2012 06:30:00 +0900</pubDate>
+<itunes:duration>30:30</itunes:duration> 
 <itunes:keywords>名古屋大学 名大</itunes:keywords> 
 </item>
 
 
 <item> 
-<title>第10回：食料生産の過去・現在・未来 —お米の研究から第二の「緑の革命」を目指す—</title>
+<title>第10回：危機への心理的対応 &#x301C;事後ケアから未然防止へ&#x301C;</title>
 <itunes:author>名古屋大学</itunes:author> 
-<itunes:subtitle>生物機能開発利用研究センター 教授 北野英己</itunes:subtitle> 
+<itunes:subtitle>教育発達科学研究科 教授 窪田由紀</itunes:subtitle> 
 <itunes:summary></itunes:summary> 
 <itunes:explicit>no</itunes:explicit> 
-<enclosure url="http://ocw.nagoya-u.jp/podcast/2011seminar10.mp3" length="37065889" type="audio/mpeg" />
-<guid>http://ocw.nagoya-u.jp/podcast/2011seminar10.mp3</guid> 
-<pubDate>Sun, 4 Sep 2011 06:30:00 +0900</pubDate>
-<itunes:duration>30:53</itunes:duration> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2012seminar10.mp3" length="29892282" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2012seminar10.mp3</guid> 
+<pubDate>Sun, 02 Sep 2012 06:30:00 +0900</pubDate>
+<itunes:duration>31:08</itunes:duration> 
 <itunes:keywords>名古屋大学 名大</itunes:keywords> 
 </item>
 
