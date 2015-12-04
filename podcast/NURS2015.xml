@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="UTF-8"?> 
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"> 
+ 
+<channel> 
+
+<title>名古屋大学リレーセミナー 秩序と渾沌</title>
+<link>http://ocw.nagoya-u.jp/</link> 
+<language>ja</language> 
+<copyright>&#x2117; &amp; &#xA9; 2015 Nagoya Univ 東海ラジオ放送</copyright> 
+<itunes:subtitle></itunes:subtitle> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:summary>
+人類はその長い歴史の中で、混沌の中から言葉、音楽、数の概念を生み出し、社会を形成し、人文学、自然科学を育ててきました。
+秩序と渾沌の対立は、均質性と異質性、必然と偶然、調和と不調和など、さまざまな言葉で捉え直すことができます。
+秩序が望ましいもので、その光があたらない渾沌は忌避すべきものでしょうか。
+今年の講座では、両者の間にある緊張関係に注目します。
+
+まず、自然界における秩序の典型としては結晶構造が挙げられます。
+平成26年度、青色LEDの発明で赤﨑先生、天野先生、中村先生がノーベル物理学賞を受賞されるという大変喜ばしいニュースがありました。
+受賞の元となった実験では、窒化ガリウムの結晶という秩序だった構造に微量の不純物を混入させることが重要です。
+このように結晶構造に微量の異物を混入させて得られた半導体は、私たちの生活を劇的な形で変えていっています。 
+
+また、社会を考える上でも秩序は重要なモチーフです。
+法の概念と秩序は切っても切れない関係にありますし、経済学においては、希少資源を分配する上で市場という考え方が大きな役割を果たします。
+では、その秩序の外側はどのようになっているでしょうか。
+現代の経済学では、社会的な関係など、市場以外の要素にだんだん光があたるようになっています。
+
+ここで、天才的な物理学者ファインマンが好んで語った、メキシコの酔っ払いに関するジョークをご紹介しましょう。
+
+    夜道を歩いていると、目の前の街灯の下で何かを探している酔っ払いを見かけました。
+    しかし、そのあたりには何も落ちているように見えなかったので、「なくし物ですか？　どこで失くされましたか？」と問いかけると、酔っ払いが向こうの暗がりを指差して「あそこです」と答えます。
+    「ならば、なぜそちらを探さないのですか？」と尋ねたところ「こっちの方が明るいから」と応じる、というものです。
+
+学問はそのまばゆさに惑わされて、光のあたるところばかりが重要視されますが、実は暗いところにこそ目を凝らすことも必要なのではないでしょうか。
+</itunes:summary>
+<itunes:owner> 
+<itunes:name>名古屋大学リレーセミナー 秩序と渾沌</itunes:name> 
+<itunes:email></itunes:email> 
+</itunes:owner> 
+<itunes:image href="http://ocw.nagoya-u.jp/podcast/logo_relay.jpg" />
+<itunes:category text="Education"> 
+<itunes:category text="Higher Education"/> 
+</itunes:category> 
+
+<item> 
+<title>第01回：混沌から秩序が生まれる ―結晶成長の不思議な世界―</title> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>理学研究科 教授 上羽牧夫</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2015seminar01.mp3" length="35819830" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2015seminar01.mp3</guid> 
+<pubDate>Sun, 05 Jul 2015 02:00:00 +0900</pubDate>
+<itunes:duration>29:50</itunes:duration> 
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+
+<item> 
+<title>第02回：秩序と混沌 ～ヒトの健康な代謝とメタボな代謝～</title> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>生命農学研究科 教授 下村吉治</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2015seminar02.mp3" length="36447292" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2015seminar02.mp3</guid> 
+<pubDate>Sun, 12 Jul 2015 02:00:00 +0900</pubDate>
+<itunes:duration>30:22</itunes:duration>
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+
+<item> 
+<title>第03回：経済予測は当たるのか当たらないのか</title>
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>国際開発研究科 教授 藤川清史</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2015seminar03.mp3" length="36546034" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2015seminar03.mp3</guid> 
+<pubDate>Sun, 19 Jul 2015 02:00:00 +0900</pubDate>
+<itunes:duration>30:27</itunes:duration> 
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+
+<item> 
+<title>第04回：現代政治における秩序と混沌</title> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>法学研究科 教授 小野耕二</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2015seminar04.mp3" length="36536630" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2015seminar04.mp3</guid> 
+<pubDate>Sun, 26 Jul 2015 02:00:00 +0900</pubDate>
+<itunes:duration>30:26</itunes:duration> 
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+
+<item> 
+<title>第05回：高度経済成長と公害</title> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>経済学研究科 准教授 小堀聡</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2015seminar05.mp3" length="36014704" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2015seminar05.mp3</guid> 
+<pubDate>Sun, 02 Aug 2015 02:00:00 +0900</pubDate>
+<itunes:duration>30:00</itunes:duration> 
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+
+<item> 
+<title>第06回：見つけやすいもの、見つけにくいもの：秩序が背景にあるときと、秩序だった形が目立つとき</title> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>情報科学研究科 准教授 川合伸幸</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2015seminar06.mp3" length="36637463" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2015seminar06.mp3</guid> 
+<pubDate>Sun, 09 Aug 2015 02:00:00 +0900</pubDate>
+<itunes:duration>30:31</itunes:duration> 
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+
+<item> 
+<title>第07回：意思決定における規則性とその乱れ</title> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>環境学研究科 教授 大平英樹</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2015seminar07.mp3" length="35809381" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2015seminar07.mp3</guid> 
+<pubDate>Sun, 16 Aug 2015 02:00:00 +0900</pubDate>
+<itunes:duration>29:50</itunes:duration> 
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+
+<item> 
+<title>第08回：日本語七変化　秩序と混沌のはざまで</title> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>文学研究科 准教授 宮地朝子</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2015seminar08.mp3" length="36520434" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2015seminar08.mp3</guid> 
+<pubDate>Sun, 23 Aug 2015 02:00:00 +0900</pubDate>
+<itunes:duration>30:25</itunes:duration> 
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+
+<item> 
+<title>第09回：マイノリティ状況と共生秩序：フランス語圏サブカルチャーにおける差異をめぐるせめぎ合い</title> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>国際言語文化研究科 教授 田所光男</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2015seminar09.mp3" length="35821920" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2015seminar09.mp3</guid> 
+<pubDate>Sun, 30 Aug 2015 02:00:00 +0900</pubDate>
+<itunes:duration>29:50</itunes:duration> 
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+
+<item> 
+<title>第10回：混沌の薬物に秩序をもたらすテラヘルツ波？</title>
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>工学研究科 教授 川瀬晃道</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2015seminar10.mp3" length="36652092" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2015seminar10.mp3</guid> 
+<pubDate>Sun, 06 Sep 2015 02:00:00 +0900</pubDate>
+<itunes:duration>30:32</itunes:duration> 
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+</channel> 
+</rss>
