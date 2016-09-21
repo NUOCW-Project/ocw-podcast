@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="UTF-8"?> 
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"> 
+ 
+<channel> 
+
+<title>名古屋大学リレーセミナー 個と集団―ネットワークの様々な様相</title>
+<link>http://ocw.nagoya-u.jp/</link> 
+<language>ja</language> 
+<copyright>&#x2117; &amp; &#xA9; 2016 Nagoya Univ 東海ラジオ放送</copyright> 
+<itunes:subtitle></itunes:subtitle> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:summary>
+個と集団の問題、簡単そうに見えますが、実はいろいろな分野で顔を出してきます。
+
+個人が集まって社会を形成していますが、社会とはどのようなものでしょうか？
+
+法学、政治学、社会学、経済学、文学など、切り口によって様々な学問と関係しています。
+企業の経営を考えるときには、大きくなればなるほど中でのコミュニケーションが必要になり、複雑性が増します。
+
+我々の生活に大変革をもたらしたインターネットも元々は核戦争が起きたときに通信網が分断されないようにするために、ネットワーク構築するための研究から生み出されました。
+情報を共有するためのWorld Wide Webといった技術も生み出され、私たち自身のコミュニケーションの方法も変化してきました。
+現在では、人間同士のコミュニケーションのみならず、モノの間のコミュニケーションが可能になり(Internet of Things)これからどのようなことが起こるか、目が離せません。
+
+物質も、原子の集まりからなっていますし、その原子も素粒子の集まりからなっています。
+スケールを大きくすれば、我々が今いる宇宙も星の集まりからできています。
+これらの「個」はどのようにつながっているかは、考えるスケールによって異なります。
+
+我々の体は37兆個の細胞から成り立っていると言われています。
+ゾウリムシのように体が一つの細胞からなっている生物もあるのにです。
+多細胞生物は細胞のネットワークを形成しています。
+人間の脳も千数百億の神経細胞からなっています。
+また、人の腸の中に住んでいる腸内細菌は約3万種類、1000兆個が生息していると言われています。
+宇宙人が地球に来て、我々の体のDNA検査をしたら、ひょっとしたら、大腸菌の方が主体だと思うかもしれません。
+
+太宰治は「人間失格」の中で登場人物に「世間とは、一体、何のことでしょうか。どこに、その世間というものの実体があるのでしょう。」と言わせています。
+この問題意識は現在分野を超えた意味を持っているように思います。 
+</itunes:summary>
+<itunes:owner> 
+<itunes:name>名古屋大学リレーセミナー 個と集団―ネットワークの様々な様相</itunes:name> 
+<itunes:email></itunes:email> 
+</itunes:owner> 
+<itunes:image href="http://ocw.nagoya-u.jp/podcast/logo_relay.jpg" />
+<itunes:category text="Education"> 
+<itunes:category text="Higher Education"/> 
+</itunes:category> 
+
+<item> 
+<title>第01回：睡眠と覚醒を司る脳の仕組み</title> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>環境医学研究科 教授 山中章弘</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2016seminar01.mp3" length="36788539" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2016seminar01.mp3</guid> 
+<pubDate>Sun, 03 Jul 2016 02:00:00 +0900</pubDate>
+<itunes:duration>30:40</itunes:duration> 
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+
+<item> 
+<title>第02回：脳と体の「個と集団」：その機能と病態</title> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>医学系研究科 教授 勝野雅央</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2016seminar02.mp3" length="36309964" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2016seminar02.mp3</guid> 
+<pubDate>Sun, 10 Jul 2016 02:00:00 +0900</pubDate>
+<itunes:duration>30:16</itunes:duration>
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+
+<item> 
+<title>第03回：多様な集団と法律</title>
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>法学研究科 教授 和田肇</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2016seminar03.mp3" length="36598251" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2016seminar03.mp3</guid> 
+<pubDate>Sun, 17 Jul 2016 02:00:00 +0900</pubDate>
+<itunes:duration>30:31</itunes:duration> 
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+
+<item> 
+<title>第04回：個を意識するか、集団を意識するか－人種偏見や差別の裏にある心理的背景</title> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>教育発達科学研究科 教授 高井次郎</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2016seminar04.mp3" length="36397631" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2016seminar04.mp3</guid> 
+<pubDate>Sun, 24 Jul 2016 02:00:00 +0900</pubDate>
+<itunes:duration>30:21</itunes:duration> 
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+
+<item> 
+<title>第05回：個人のネットワークとしての「社会」：そのさまざまなとらえ方と現代世界での役割</title> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>経済学研究科 教授 長尾伸一</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2016seminar05.mp3" length="36544003" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2016seminar05.mp3</guid> 
+<pubDate>Sun, 31 Jul 2016 02:00:00 +0900</pubDate>
+<itunes:duration>30:28</itunes:duration> 
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+
+<item> 
+<title>第06回：道路交通とコミュニケーション－これまでとこれから－</title> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>未来材料･システム研究所 准教授 三輪富生</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2016seminar06.mp3" length="36265974" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2016seminar06.mp3</guid> 
+<pubDate>Sun, 07 Aug 2016 02:00:00 +0900</pubDate>
+<itunes:duration>30:14</itunes:duration> 
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+
+<item> 
+<title>第07回：社会保障の社会学――見知らぬ他者との協力関係をめぐって</title> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>環境学研究科 准教授 上村泰裕</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2016seminar07.mp3" length="36684455" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2016seminar07.mp3</guid> 
+<pubDate>Sun, 14 Aug 2016 02:00:00 +0900</pubDate>
+<itunes:duration>30:35</itunes:duration> 
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+
+<item> 
+<title>第08回：超高齢化社会と薬</title> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>創薬科学研究科 教授 赤池昭紀</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2016seminar08.mp3" length="37328122" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2016seminar08.mp3</guid> 
+<pubDate>Sun, 21 Aug 2016 02:00:00 +0900</pubDate>
+<itunes:duration>31:07</itunes:duration> 
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+
+<item> 
+<title>第09回：空気中の微粒子：エアロゾルの世界</title> 
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>環境学研究科 准教授 長田和雄</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2016seminar09.mp3" length="36593626" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2016seminar09.mp3</guid> 
+<pubDate>Sun, 28 Aug 2016 02:00:00 +0900</pubDate>
+<itunes:duration>30:31</itunes:duration> 
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+
+<item> 
+<title>第10回：時間を用いた個体間コミュニケーションを支える脳のしくみ～ヒトの音による会話から魚の電気による会話まで～</title>
+<itunes:author>名古屋大学</itunes:author> 
+<itunes:subtitle>理学研究科 特任講師 小橋常彦</itunes:subtitle> 
+<itunes:summary></itunes:summary> 
+<itunes:explicit>no</itunes:explicit> 
+<enclosure url="http://ocw.nagoya-u.jp/podcast/2016seminar10.mp3" length="35833948" type="audio/mpeg" />
+<guid>http://ocw.nagoya-u.jp/podcast/2016seminar10.mp3</guid> 
+<pubDate>Sun, 04 Sep 2016 02:00:00 +0900</pubDate>
+<itunes:duration>29:53</itunes:duration> 
+<itunes:keywords>名古屋大学 名大</itunes:keywords> 
+</item>
+
+</channel> 
+</rss>
